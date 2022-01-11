@@ -1,0 +1,503 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>暴力克星.smd</path>
+		<name>暴力克星</name>
+		<image>~/thumbnails/12 MD/Named_Snaps/暴力克星.png</image>
+	</game>
+	<game>
+		<path>爆笑三国.smd</path>
+		<name>爆笑三国</name>
+		<image>~/thumbnails/12 MD/Named_Snaps/爆笑三国.png</image>
+	</game>
+	<game>
+		<path>北斗神拳.bin</path>
+		<name>北斗神拳</name>
+		<image>~/thumbnails/12 MD/Named_Snaps/北斗神拳.png</image>
+	</game>
+	<game>
+		<path>蝙蝠侠与罗宾.bin</path>
+		<name>蝙蝠侠与罗宾</name>
+		<image>~/thumbnails/12 MD/Named_Snaps/蝙蝠侠与罗宾.png</image>
+	</game>
+	<game>
+		<path>超级马力欧.smd</path>
+		<name>超级马力欧</name>
+		<image>~/thumbnails/12 MD/Named_Snaps/超级马力欧.png</image>
+	</game>
+	<game>
+		<path>超级忍1.smd</path>
+		<name>超级忍1</name>
+		<image>~/thumbnails/12 MD/Named_Snaps/超级忍1.png</image>
+	</game>
+	<game>
+		<path>超级忍2.bin</path>
+		<name>超级忍2</name>
+		<image>~/thumbnails/12 MD/Named_Snaps/超级忍2.png</image>
+	</game>
+	<game>
+		<path>惩罚者.smd</path>
+		<name>惩罚者</name>
+		<image>~/thumbnails/12 MD/Named_Snaps/惩罚者.png</image>
+	</game>
+	<game>
+		<path>冲破火网2.smd</path>
+		<name>冲破火网2</name>
+		<image>~/thumbnails/12 MD/Named_Snaps/冲破火网2.png</image>
+	</game>
+	<game>
+		<path>出击飞龙1.smd</path>
+		<name>出击飞龙1</name>
+		<image>~/thumbnails/12 MD/Named_Snaps/出击飞龙1.png</image>
+	</game>
+	<game>
+		<path>出击飞龙2.bin</path>
+		<name>出击飞龙2</name>
+		<image>~/thumbnails/12 MD/Named_Snaps/出击飞龙2.png</image>
+	</game>
+	<game>
+		<path>大航海时代2.smd</path>
+		<name>大航海时代2</name>
+		<image>~/thumbnails/12 MD/Named_Snaps/大航海时代2.png</image>
+	</game>
+	<game>
+		<path>大魔界村.bin</path>
+		<name>大魔界村</name>
+		<image>~/thumbnails/12 MD/Named_Snaps/大魔界村.png</image>
+	</game>
+	<game>
+		<path>饿狼传说2.smd</path>
+		<name>饿狼传说2</name>
+		<image>~/thumbnails/12 MD/Named_Snaps/饿狼传说2.png</image>
+	</game>
+	<game>
+		<path>风中奇缘.smd</path>
+		<name>风中奇缘</name>
+		<image>~/thumbnails/12 MD/Named_Snaps/风中奇缘.png</image>
+	</game>
+	<game>
+		<path>钢铁帝国.bin</path>
+		<name>钢铁帝国</name>
+		<image>~/thumbnails/12 MD/Named_Snaps/钢铁帝国.png</image>
+	</game>
+	<game>
+		<path>光电领航员.smd</path>
+		<name>光电领航员</name>
+		<image>~/thumbnails/12 MD/Named_Snaps/光电领航员.png</image>
+	</game>
+	<game>
+		<path>光明力量1.smd</path>
+		<name>光明力量1</name>
+		<image>~/thumbnails/12 MD/Named_Snaps/光明力量1.png</image>
+	</game>
+	<game>
+		<path>光明力量2.smd</path>
+		<name>光明力量2</name>
+		<image>~/thumbnails/12 MD/Named_Snaps/光明力量2.png</image>
+	</game>
+	<game>
+		<path>光明十字军.smd</path>
+		<name>光明十字军</name>
+		<image>~/thumbnails/12 MD/Named_Snaps/光明十字军.png</image>
+	</game>
+	<game>
+		<path>光明与黑暗.smd</path>
+		<name>光明与黑暗</name>
+		<image>~/thumbnails/12 MD/Named_Snaps/光明与黑暗.png</image>
+	</game>
+	<game>
+		<path>光之继承者.bin</path>
+		<name>光之继承者</name>
+		<image>~/thumbnails/12 MD/Named_Snaps/光之继承者.png</image>
+	</game>
+	<game>
+		<path>豪血寺一族.bin</path>
+		<name>豪血寺一族</name>
+		<image>~/thumbnails/12 MD/Named_Snaps/豪血寺一族.png</image>
+	</game>
+	<game>
+		<path>皇帝的财宝.bin</path>
+		<name>皇帝的财宝</name>
+		<image>~/thumbnails/12 MD/Named_Snaps/皇帝的财宝.png</image>
+	</game>
+	<game>
+		<path>毁灭骑兵.smd</path>
+		<name>毁灭骑兵</name>
+		<image>~/thumbnails/12 MD/Named_Snaps/毁灭骑兵.png</image>
+	</game>
+	<game>
+		<path>魂斗罗 铁血军团.bin</path>
+		<name>魂斗罗 铁血军团</name>
+		<image>~/thumbnails/12 MD/Named_Snaps/魂斗罗 铁血军团.png</image>
+	</game>
+	<game>
+		<path>火箭骑士1.bin</path>
+		<name>火箭骑士1</name>
+		<image>~/thumbnails/12 MD/Named_Snaps/火箭骑士1.png</image>
+	</game>
+	<game>
+		<path>火箭骑士2.bin</path>
+		<name>火箭骑士2</name>
+		<image>~/thumbnails/12 MD/Named_Snaps/火箭骑士2.png</image>
+	</game>
+	<game>
+		<path>火枪英雄.bin</path>
+		<name>火枪英雄</name>
+		<image>~/thumbnails/12 MD/Named_Snaps/火枪英雄.png</image>
+	</game>
+	<game>
+		<path>机械战警3.smd</path>
+		<name>机械战警3</name>
+		<image>~/thumbnails/12 MD/Named_Snaps/机械战警3.png</image>
+	</game>
+	<game>
+		<path>机械战警对终结者.smd</path>
+		<name>机械战警对终结者</name>
+		<image>~/thumbnails/12 MD/Named_Snaps/机械战警对终结者.png</image>
+	</game>
+	<game>
+		<path>街头霸王II PLUS.bin</path>
+		<name>街头霸王II PLUS</name>
+		<image>~/thumbnails/12 MD/Named_Snaps/街头霸王II PLUS.png</image>
+	</game>
+	<game>
+		<path>街头霸王II SUPER.smd</path>
+		<name>街头霸王II SUPER</name>
+		<image>~/thumbnails/12 MD/Named_Snaps/街头霸王II SUPER.png</image>
+	</game>
+	<game>
+		<path>街头赛车.smd</path>
+		<name>街头赛车</name>
+		<image>~/thumbnails/12 MD/Named_Snaps/街头赛车.png</image>
+	</game>
+	<game>
+		<path>恐龙兄弟2.smd</path>
+		<name>恐龙兄弟2</name>
+		<image>~/thumbnails/12 MD/Named_Snaps/恐龙兄弟2.png</image>
+	</game>
+	<game>
+		<path>空牙.smd</path>
+		<name>空牙</name>
+		<image>~/thumbnails/12 MD/Named_Snaps/空牙.png</image>
+	</game>
+	<game>
+		<path>空中魂斗罗.smd</path>
+		<name>空中魂斗罗</name>
+		<image>~/thumbnails/12 MD/Named_Snaps/空中魂斗罗.png</image>
+	</game>
+	<game>
+		<path>骷髅战机.bin</path>
+		<name>骷髅战机</name>
+		<image>~/thumbnails/12 MD/Named_Snaps/骷髅战机.png</image>
+	</game>
+	<game>
+		<path>雷电传说.smd</path>
+		<name>雷电传说</name>
+		<image>~/thumbnails/12 MD/Named_Snaps/雷电传说.png</image>
+	</game>
+	<game>
+		<path>粒子战士1.smd</path>
+		<name>粒子战士1</name>
+		<image>~/thumbnails/12 MD/Named_Snaps/粒子战士1.png</image>
+	</game>
+	<game>
+		<path>粒子战士2.smd</path>
+		<name>粒子战士2</name>
+		<image>~/thumbnails/12 MD/Named_Snaps/粒子战士2.png</image>
+	</game>
+	<game>
+		<path>洛克人世界.smd</path>
+		<name>洛克人世界</name>
+		<image>~/thumbnails/12 MD/Named_Snaps/洛克人世界.png</image>
+	</game>
+	<game>
+		<path>漫画地带.smd</path>
+		<name>漫画地带</name>
+		<image>~/thumbnails/12 MD/Named_Snaps/漫画地带.png</image>
+	</game>
+	<game>
+		<path>梦幻模拟战1.bin</path>
+		<name>梦幻模拟战1</name>
+		<image>~/thumbnails/12 MD/Named_Snaps/梦幻模拟战1.png</image>
+	</game>
+	<game>
+		<path>梦幻模拟战2.bin</path>
+		<name>梦幻模拟战2</name>
+		<image>~/thumbnails/12 MD/Named_Snaps/梦幻模拟战2.png</image>
+	</game>
+	<game>
+		<path>梦幻之星4.smd</path>
+		<name>梦幻之星4</name>
+		<image>~/thumbnails/12 MD/Named_Snaps/梦幻之星4.png</image>
+	</game>
+	<game>
+		<path>鸟人战队.bin</path>
+		<name>鸟人战队</name>
+		<image>~/thumbnails/12 MD/Named_Snaps/鸟人战队.png</image>
+	</game>
+	<game>
+		<path>怒之铁拳1.smd</path>
+		<name>怒之铁拳1</name>
+		<image>~/thumbnails/12 MD/Named_Snaps/怒之铁拳1.png</image>
+	</game>
+	<game>
+		<path>怒之铁拳2.smd</path>
+		<name>怒之铁拳2</name>
+		<image>~/thumbnails/12 MD/Named_Snaps/怒之铁拳2.png</image>
+	</game>
+	<game>
+		<path>怒之铁拳3.smd</path>
+		<name>怒之铁拳3</name>
+		<image>~/thumbnails/12 MD/Named_Snaps/怒之铁拳3.png</image>
+	</game>
+	<game>
+		<path>蚯蚓战士1.bin</path>
+		<name>蚯蚓战士1</name>
+		<image>~/thumbnails/12 MD/Named_Snaps/蚯蚓战士1.png</image>
+	</game>
+	<game>
+		<path>蚯蚓战士2.bin</path>
+		<name>蚯蚓战士2</name>
+		<image>~/thumbnails/12 MD/Named_Snaps/蚯蚓战士2.png</image>
+	</game>
+	<game>
+		<path>忍无可忍.bin</path>
+		<name>忍无可忍</name>
+		<image>~/thumbnails/12 MD/Named_Snaps/忍无可忍.png</image>
+	</game>
+	<game>
+		<path>忍者龙剑传.bin</path>
+		<name>忍者龙剑传</name>
+		<image>~/thumbnails/12 MD/Named_Snaps/忍者龙剑传.png</image>
+	</game>
+	<game>
+		<path>忍者神龟4.bin</path>
+		<name>忍者神龟4</name>
+		<image>~/thumbnails/12 MD/Named_Snaps/忍者神龟4.png</image>
+	</game>
+	<game>
+		<path>忍者神龟5.bin</path>
+		<name>忍者神龟5</name>
+		<image>~/thumbnails/12 MD/Named_Snaps/忍者神龟5.png</image>
+	</game>
+	<game>
+		<path>忍者蛙.bin</path>
+		<name>忍者蛙</name>
+		<image>~/thumbnails/12 MD/Named_Snaps/忍者蛙.png</image>
+	</game>
+	<game>
+		<path>忍者蛙和双截龙.bin</path>
+		<name>忍者蛙和双截龙</name>
+		<image>~/thumbnails/12 MD/Named_Snaps/忍者蛙和双截龙.png</image>
+	</game>
+	<game>
+		<path>三国演义 火烧赤壁.smd</path>
+		<name>三国演义 火烧赤壁</name>
+		<image>~/thumbnails/12 MD/Named_Snaps/三国演义 火烧赤壁.png</image>
+	</game>
+	<game>
+		<path>森林卫士.smd</path>
+		<name>森林卫士</name>
+		<image>~/thumbnails/12 MD/Named_Snaps/森林卫士.png</image>
+	</game>
+	<game>
+		<path>沙丘魔堡.smd</path>
+		<name>沙丘魔堡</name>
+		<image>~/thumbnails/12 MD/Named_Snaps/沙丘魔堡.png</image>
+	</game>
+	<game>
+		<path>闪电出击2.smd</path>
+		<name>闪电出击2</name>
+		<image>~/thumbnails/12 MD/Named_Snaps/闪电出击2.png</image>
+	</game>
+	<game>
+		<path>闪电出击3.smd</path>
+		<name>闪电出击3</name>
+		<image>~/thumbnails/12 MD/Named_Snaps/闪电出击3.png</image>
+	</game>
+	<game>
+		<path>闪电出击4.smd</path>
+		<name>闪电出击4</name>
+		<image>~/thumbnails/12 MD/Named_Snaps/闪电出击4.png</image>
+	</game>
+	<game>
+		<path>侍魂.bin</path>
+		<name>侍魂</name>
+		<image>~/thumbnails/12 MD/Named_Snaps/侍魂.png</image>
+	</game>
+	<game>
+		<path>双截龙1.smd</path>
+		<name>双截龙1</name>
+		<image>~/thumbnails/12 MD/Named_Snaps/双截龙1.png</image>
+	</game>
+	<game>
+		<path>双截龙2.smd</path>
+		<name>双截龙2</name>
+		<image>~/thumbnails/12 MD/Named_Snaps/双截龙2.png</image>
+	</game>
+	<game>
+		<path>双截龙3.smd</path>
+		<name>双截龙3</name>
+		<image>~/thumbnails/12 MD/Named_Snaps/双截龙3.png</image>
+	</game>
+	<game>
+		<path>双截龙5.bin</path>
+		<name>双截龙5</name>
+		<image>~/thumbnails/12 MD/Named_Snaps/双截龙5.png</image>
+	</game>
+	<game>
+		<path>水浒传.smd</path>
+		<name>水浒传</name>
+		<image>~/thumbnails/12 MD/Named_Snaps/水浒传.png</image>
+	</game>
+	<game>
+		<path>水浒风云传.smd</path>
+		<name>水浒风云传</name>
+		<image>~/thumbnails/12 MD/Named_Snaps/水浒风云传.png</image>
+	</game>
+	<game>
+		<path>索尼克1.smd</path>
+		<name>索尼克1</name>
+		<image>~/thumbnails/12 MD/Named_Snaps/索尼克1.png</image>
+	</game>
+	<game>
+		<path>索尼克2.smd</path>
+		<name>索尼克2</name>
+		<image>~/thumbnails/12 MD/Named_Snaps/索尼克2.png</image>
+	</game>
+	<game>
+		<path>索尼克3.smd</path>
+		<name>索尼克3</name>
+		<image>~/thumbnails/12 MD/Named_Snaps/索尼克3.png</image>
+	</game>
+	<game>
+		<path>太空战士.smd</path>
+		<name>太空战士</name>
+		<image>~/thumbnails/12 MD/Named_Snaps/太空战士.png</image>
+	</game>
+	<game>
+		<path>唐老鸭大冒险.bin</path>
+		<name>唐老鸭大冒险</name>
+		<image>~/thumbnails/12 MD/Named_Snaps/唐老鸭大冒险.png</image>
+	</game>
+	<game>
+		<path>特殊部队357.smd</path>
+		<name>特殊部队357</name>
+		<image>~/thumbnails/12 MD/Named_Snaps/特殊部队357.png</image>
+	</game>
+	<game>
+		<path>铁头小子.smd</path>
+		<name>铁头小子</name>
+		<image>~/thumbnails/12 MD/Named_Snaps/铁头小子.png</image>
+	</game>
+	<game>
+		<path>吞食天地3.smd</path>
+		<name>吞食天地3</name>
+		<image>~/thumbnails/12 MD/Named_Snaps/吞食天地3.png</image>
+	</game>
+	<game>
+		<path>外星战将.smd</path>
+		<name>外星战将</name>
+		<image>~/thumbnails/12 MD/Named_Snaps/外星战将.png</image>
+	</game>
+	<game>
+		<path>午夜魂斗罗.smd</path>
+		<name>午夜魂斗罗</name>
+		<image>~/thumbnails/12 MD/Named_Snaps/午夜魂斗罗.png</image>
+	</game>
+	<game>
+		<path>武者雅士达.smd</path>
+		<name>武者雅士达</name>
+		<image>~/thumbnails/12 MD/Named_Snaps/武者雅士达.png</image>
+	</game>
+	<game>
+		<path>武装刑警.smd</path>
+		<name>武装刑警</name>
+		<image>~/thumbnails/12 MD/Named_Snaps/武装刑警.png</image>
+	</game>
+	<game>
+		<path>恶魔城 血族.smd</path>
+		<name>恶魔城 血族</name>
+		<image>~/thumbnails/12 MD/Named_Snaps/恶魔城 血族.png</image>
+	</game>
+	<game>
+		<path>悟空外传.bin</path>
+		<name>悟空外传</name>
+		<image>~/thumbnails/12 MD/Named_Snaps/悟空外传.png</image>
+	</game>
+	<game>
+		<path>西部牛仔.smd</path>
+		<name>西部牛仔</name>
+		<image>~/thumbnails/12 MD/Named_Snaps/西部牛仔.png</image>
+	</game>
+	<game>
+		<path>新创世纪.smd</path>
+		<name>新创世纪</name>
+		<image>~/thumbnails/12 MD/Named_Snaps/新创世纪.png</image>
+	</game>
+	<game>
+		<path>一门英烈杨家将.smd</path>
+		<name>一门英烈杨家将</name>
+		<image>~/thumbnails/12 MD/Named_Snaps/一门英烈杨家将.png</image>
+	</game>
+	<game>
+		<path>异形风暴.smd</path>
+		<name>异形风暴</name>
+		<image>~/thumbnails/12 MD/Named_Snaps/异形风暴.png</image>
+	</game>
+	<game>
+		<path>异形战士.bin</path>
+		<name>异形战士</name>
+		<image>~/thumbnails/12 MD/Named_Snaps/异形战士.png</image>
+	</game>
+	<game>
+		<path>影舞者.smd</path>
+		<name>影舞者</name>
+		<image>~/thumbnails/12 MD/Named_Snaps/影舞者.png</image>
+	</game>
+	<game>
+		<path>幽游白书 魔强统一战.smd</path>
+		<name>幽游白书 魔强统一战</name>
+		<image>~/thumbnails/12 MD/Named_Snaps/幽游白书 魔强统一战.png</image>
+	</game>
+	<game>
+		<path>战场之狼2.smd</path>
+		<name>战场之狼2</name>
+		<image>~/thumbnails/12 MD/Named_Snaps/战场之狼2.png</image>
+	</game>
+	<game>
+		<path>战斧1.smd</path>
+		<name>战斧1</name>
+		<image>~/thumbnails/12 MD/Named_Snaps/战斧1.png</image>
+	</game>
+	<game>
+		<path>战斧2.smd</path>
+		<name>战斧2</name>
+		<image>~/thumbnails/12 MD/Named_Snaps/战斧2.png</image>
+	</game>
+	<game>
+		<path>战斧3.smd</path>
+		<name>战斧3</name>
+		<image>~/thumbnails/12 MD/Named_Snaps/战斧3.png</image>
+	</game>
+	<game>
+		<path>中国象棋.smd</path>
+		<name>中国象棋</name>
+		<image>~/thumbnails/12 MD/Named_Snaps/中国象棋.png</image>
+	</game>
+	<game>
+		<path>终结者1.smd</path>
+		<name>终结者1</name>
+		<image>~/thumbnails/12 MD/Named_Snaps/终结者1.png</image>
+	</game>
+	<game>
+		<path>终结者2 街机.smd</path>
+		<name>终结者2 街机</name>
+		<image>~/thumbnails/12 MD/Named_Snaps/终结者2 街机.png</image>
+	</game>
+	<game>
+		<path>终结者2 审判日.smd</path>
+		<name>终结者2 审判日</name>
+		<image>~/thumbnails/12 MD/Named_Snaps/终结者2 审判日.png</image>
+	</game>
+</gameList>

@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>007 黄金眼.n64</path>
+		<name>007 黄金眼</name>
+		<image>~/thumbnails/07 N64/Named_Snaps/007 黄金眼.png</image>
+	</game>
+	<game>
+		<path>超级马力欧64.n64</path>
+		<name>超级马力欧64</name>
+		<image>~/thumbnails/07 N64/Named_Snaps/超级马力欧64.png</image>
+	</game>
+	<game>
+		<path>坏松鼠大冒险.n64</path>
+		<name>坏松鼠大冒险</name>
+		<image>~/thumbnails/07 N64/Named_Snaps/坏松鼠大冒险.png</image>
+	</game>
+	<game>
+		<path>恐龙猎人.n64</path>
+		<name>恐龙猎人</name>
+		<image>~/thumbnails/07 N64/Named_Snaps/恐龙猎人.png</image>
+	</game>
+	<game>
+		<path>任天堂全明星大乱斗.n64</path>
+		<name>任天堂全明星大乱斗</name>
+		<image>~/thumbnails/07 N64/Named_Snaps/任天堂全明星大乱斗.png</image>
+	</game>
+	<game>
+		<path>塞尔达传说 梅祖拉的假面.n64</path>
+		<name>塞尔达传说 梅祖拉的假面</name>
+		<image>~/thumbnails/07 N64/Named_Snaps/塞尔达传说 梅祖拉的假面.png</image>
+	</game>
+	<game>
+		<path>塞尔达传说 时之笛.n64</path>
+		<name>塞尔达传说 时之笛</name>
+		<image>~/thumbnails/07 N64/Named_Snaps/塞尔达传说 时之笛.png</image>
+	</game>
+	<game>
+		<path>山脊赛车64.n64</path>
+		<name>山脊赛车64</name>
+		<image>~/thumbnails/07 N64/Named_Snaps/山脊赛车64.png</image>
+	</game>
+	<game>
+		<path>恶魔城 默示录.n64</path>
+		<name>恶魔城 默示录</name>
+		<image>~/thumbnails/07 N64/Named_Snaps/恶魔城 默示录.png</image>
+	</game>
+	<game>
+		<path>星际火狐.n64</path>
+		<name>星际火狐</name>
+		<image>~/thumbnails/07 N64/Named_Snaps/星际火狐.png</image>
+	</game>
+</gameList>

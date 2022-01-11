@@ -1,0 +1,503 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>超级火枪英雄.gba</path>
+		<name>超级火枪英雄</name>
+		<image>~/thumbnails/02 GBA/Named_Snaps/超级火枪英雄.png</image>
+	</game>
+	<game>
+		<path>超级机器人大战A.gba</path>
+		<name>超级机器人大战A</name>
+		<image>~/thumbnails/02 GBA/Named_Snaps/超级机器人大战A.png</image>
+	</game>
+	<game>
+		<path>超级机器人大战D.gba</path>
+		<name>超级机器人大战D</name>
+		<image>~/thumbnails/02 GBA/Named_Snaps/超级机器人大战D.png</image>
+	</game>
+	<game>
+		<path>超级机器人大战J.gba</path>
+		<name>超级机器人大战J</name>
+		<image>~/thumbnails/02 GBA/Named_Snaps/超级机器人大战J.png</image>
+	</game>
+	<game>
+		<path>超级机器人大战R.gba</path>
+		<name>超级机器人大战R</name>
+		<image>~/thumbnails/02 GBA/Named_Snaps/超级机器人大战R.png</image>
+	</game>
+	<game>
+		<path>超级马力欧对大金刚.gba</path>
+		<name>超级马力欧对大金刚</name>
+		<image>~/thumbnails/02 GBA/Named_Snaps/超级马力欧对大金刚.png</image>
+	</game>
+	<game>
+		<path>超级马力欧聚会.gba</path>
+		<name>超级马力欧聚会</name>
+		<image>~/thumbnails/02 GBA/Named_Snaps/超级马力欧聚会.png</image>
+	</game>
+	<game>
+		<path>超级马力欧赛车.gba</path>
+		<name>超级马力欧赛车</name>
+		<image>~/thumbnails/02 GBA/Named_Snaps/超级马力欧赛车.png</image>
+	</game>
+	<game>
+		<path>超级马力欧弹珠台.gba</path>
+		<name>超级马力欧弹珠台</name>
+		<image>~/thumbnails/02 GBA/Named_Snaps/超级马力欧弹珠台.png</image>
+	</game>
+	<game>
+		<path>超级马力欧网球.gba</path>
+		<name>超级马力欧网球</name>
+		<image>~/thumbnails/02 GBA/Named_Snaps/超级马力欧网球.png</image>
+	</game>
+	<game>
+		<path>超级马力欧与路易基RPG.gba</path>
+		<name>超级马力欧与路易基RPG</name>
+		<image>~/thumbnails/02 GBA/Named_Snaps/超级马力欧与路易基RPG.png</image>
+	</game>
+	<game>
+		<path>超级马力欧A1.gba</path>
+		<name>超级马力欧A1</name>
+		<image>~/thumbnails/02 GBA/Named_Snaps/超级马力欧A1.png</image>
+	</game>
+	<game>
+		<path>超级马力欧A2.gba</path>
+		<name>超级马力欧A2</name>
+		<image>~/thumbnails/02 GBA/Named_Snaps/超级马力欧A2.png</image>
+	</game>
+	<game>
+		<path>超级马力欧A3.gba</path>
+		<name>超级马力欧A3</name>
+		<image>~/thumbnails/02 GBA/Named_Snaps/超级马力欧A3.png</image>
+	</game>
+	<game>
+		<path>超级马力欧A4.gba</path>
+		<name>超级马力欧A4</name>
+		<image>~/thumbnails/02 GBA/Named_Snaps/超级马力欧A4.png</image>
+	</game>
+	<game>
+		<path>超魔界村R.gba</path>
+		<name>超魔界村R</name>
+		<image>~/thumbnails/02 GBA/Named_Snaps/超魔界村R.png</image>
+	</game>
+	<game>
+		<path>车神3.gba</path>
+		<name>车神3</name>
+		<image>~/thumbnails/02 GBA/Named_Snaps/车神3.png</image>
+	</game>
+	<game>
+		<path>沉默的狙击手.gba</path>
+		<name>沉默的狙击手</name>
+		<image>~/thumbnails/02 GBA/Named_Snaps/沉默的狙击手.png</image>
+	</game>
+	<game>
+		<path>地球冒险3.gba</path>
+		<name>地球冒险3</name>
+		<image>~/thumbnails/02 GBA/Named_Snaps/地球冒险3.png</image>
+	</game>
+	<game>
+		<path>顶级拉力赛车.gba</path>
+		<name>顶级拉力赛车</name>
+		<image>~/thumbnails/02 GBA/Named_Snaps/顶级拉力赛车.png</image>
+	</game>
+	<game>
+		<path>风之克罗诺亚1 梦之帝国.gba</path>
+		<name>风之克罗诺亚1 梦之帝国</name>
+		<image>~/thumbnails/02 GBA/Named_Snaps/风之克罗诺亚1 梦之帝国.png</image>
+	</game>
+	<game>
+		<path>风之克罗诺亚2 梦之锦标赛.gba</path>
+		<name>风之克罗诺亚2 梦之锦标赛</name>
+		<image>~/thumbnails/02 GBA/Named_Snaps/风之克罗诺亚2 梦之锦标赛.png</image>
+	</game>
+	<game>
+		<path>钢铁帝国.gba</path>
+		<name>钢铁帝国</name>
+		<image>~/thumbnails/02 GBA/Named_Snaps/钢铁帝国.png</image>
+	</game>
+	<game>
+		<path>高级战争1.gba</path>
+		<name>高级战争1</name>
+		<image>~/thumbnails/02 GBA/Named_Snaps/高级战争1.png</image>
+	</game>
+	<game>
+		<path>高级战争2 黑洞的崛起.gba</path>
+		<name>高级战争2 黑洞的崛起</name>
+		<image>~/thumbnails/02 GBA/Named_Snaps/高级战争2 黑洞的崛起.png</image>
+	</game>
+	<game>
+		<path>鬼太郎 危机一发!妖怪列岛.gba</path>
+		<name>鬼太郎 危机一发!妖怪列岛</name>
+		<image>~/thumbnails/02 GBA/Named_Snaps/鬼太郎 危机一发!妖怪列岛.png</image>
+	</game>
+	<game>
+		<path>合金弹头.gba</path>
+		<name>合金弹头</name>
+		<image>~/thumbnails/02 GBA/Named_Snaps/合金弹头.png</image>
+	</game>
+	<game>
+		<path>合金之枪.gba</path>
+		<name>合金之枪</name>
+		<image>~/thumbnails/02 GBA/Named_Snaps/合金之枪.png</image>
+	</game>
+	<game>
+		<path>幻想传说.gba</path>
+		<name>幻想传说</name>
+		<image>~/thumbnails/02 GBA/Named_Snaps/幻想传说.png</image>
+	</game>
+	<game>
+		<path>黄金的太阳1 开启的封印.gba</path>
+		<name>黄金的太阳1 开启的封印</name>
+		<image>~/thumbnails/02 GBA/Named_Snaps/黄金的太阳1 开启的封印.png</image>
+	</game>
+	<game>
+		<path>黄金的太阳2 失落的时代.gba</path>
+		<name>黄金的太阳2 失落的时代</name>
+		<image>~/thumbnails/02 GBA/Named_Snaps/黄金的太阳2 失落的时代.png</image>
+	</game>
+	<game>
+		<path>毁灭战士.gba</path>
+		<name>毁灭战士</name>
+		<image>~/thumbnails/02 GBA/Named_Snaps/毁灭战士.png</image>
+	</game>
+	<game>
+		<path>魂斗罗 异形战争.gba</path>
+		<name>魂斗罗 异形战争</name>
+		<image>~/thumbnails/02 GBA/Named_Snaps/魂斗罗 异形战争.png</image>
+	</game>
+	<game>
+		<path>火焰之纹章 封印之剑.gba</path>
+		<name>火焰之纹章 封印之剑</name>
+		<image>~/thumbnails/02 GBA/Named_Snaps/火焰之纹章 封印之剑.png</image>
+	</game>
+	<game>
+		<path>火焰之纹章 烈火之剑.gba</path>
+		<name>火焰之纹章 烈火之剑</name>
+		<image>~/thumbnails/02 GBA/Named_Snaps/火焰之纹章 烈火之剑.png</image>
+	</game>
+	<game>
+		<path>火焰之纹章 圣魔之光石.gba</path>
+		<name>火焰之纹章 圣魔之光石</name>
+		<image>~/thumbnails/02 GBA/Named_Snaps/火焰之纹章 圣魔之光石.png</image>
+	</game>
+	<game>
+		<path>寂静岭.gba</path>
+		<name>寂静岭</name>
+		<image>~/thumbnails/02 GBA/Named_Snaps/寂静岭.png</image>
+	</game>
+	<game>
+		<path>街头霸王II X.gba</path>
+		<name>街头霸王II X</name>
+		<image>~/thumbnails/02 GBA/Named_Snaps/街头霸王II X.png</image>
+	</game>
+	<game>
+		<path>街头霸王ZERO3.gba</path>
+		<name>街头霸王ZERO3</name>
+		<image>~/thumbnails/02 GBA/Named_Snaps/街头霸王ZERO3.png</image>
+	</game>
+	<game>
+		<path>节奏天国.gba</path>
+		<name>节奏天国</name>
+		<image>~/thumbnails/02 GBA/Named_Snaps/节奏天国.png</image>
+	</game>
+	<game>
+		<path>究极截拳道 金太郎的复仇.gba</path>
+		<name>究极截拳道 金太郎的复仇</name>
+		<image>~/thumbnails/02 GBA/Named_Snaps/究极截拳道 金太郎的复仇.png</image>
+	</game>
+	<game>
+		<path>口袋妖怪 不可思议的迷宫 赤之救助队.gba</path>
+		<name>口袋妖怪 不可思议的迷宫 赤之救助队</name>
+		<image>~/thumbnails/02 GBA/Named_Snaps/口袋妖怪 不可思议的迷宫 赤之救助队.png</image>
+	</game>
+	<game>
+		<path>口袋妖怪 绿宝石.gba</path>
+		<name>口袋妖怪 绿宝石</name>
+		<image>~/thumbnails/02 GBA/Named_Snaps/口袋妖怪 绿宝石.png</image>
+	</game>
+	<game>
+		<path>快打旋风ONE.gba</path>
+		<name>快打旋风ONE</name>
+		<image>~/thumbnails/02 GBA/Named_Snaps/快打旋风ONE.png</image>
+	</game>
+	<game>
+		<path>龙珠大冒险.gba</path>
+		<name>龙珠大冒险</name>
+		<image>~/thumbnails/02 GBA/Named_Snaps/龙珠大冒险.png</image>
+	</game>
+	<game>
+		<path>螺旋破坏者 轰振钻子.gba</path>
+		<name>螺旋破坏者 轰振钻子</name>
+		<image>~/thumbnails/02 GBA/Named_Snaps/螺旋破坏者 轰振钻子.png</image>
+	</game>
+	<game>
+		<path>洛克人与佛鲁迪.gba</path>
+		<name>洛克人与佛鲁迪</name>
+		<image>~/thumbnails/02 GBA/Named_Snaps/洛克人与佛鲁迪.png</image>
+	</game>
+	<game>
+		<path>洛克人ZERO1.gba</path>
+		<name>洛克人ZERO1</name>
+		<image>~/thumbnails/02 GBA/Named_Snaps/洛克人ZERO1.png</image>
+	</game>
+	<game>
+		<path>洛克人ZERO2.gba</path>
+		<name>洛克人ZERO2</name>
+		<image>~/thumbnails/02 GBA/Named_Snaps/洛克人ZERO2.png</image>
+	</game>
+	<game>
+		<path>洛克人ZERO3.gba</path>
+		<name>洛克人ZERO3</name>
+		<image>~/thumbnails/02 GBA/Named_Snaps/洛克人ZERO3.png</image>
+	</game>
+	<game>
+		<path>洛克人ZERO4.gba</path>
+		<name>洛克人ZERO4</name>
+		<image>~/thumbnails/02 GBA/Named_Snaps/洛克人ZERO4.png</image>
+	</game>
+	<game>
+		<path>牧场物语 矿石镇的伙伴们 女孩篇.gba</path>
+		<name>牧场物语 矿石镇的伙伴们 女孩篇</name>
+		<image>~/thumbnails/02 GBA/Named_Snaps/牧场物语 矿石镇的伙伴们 女孩篇.png</image>
+	</game>
+	<game>
+		<path>逆转裁判1.gba</path>
+		<name>逆转裁判1</name>
+		<image>~/thumbnails/02 GBA/Named_Snaps/逆转裁判1.png</image>
+	</game>
+	<game>
+		<path>逆转裁判2.gba</path>
+		<name>逆转裁判2</name>
+		<image>~/thumbnails/02 GBA/Named_Snaps/逆转裁判2.png</image>
+	</game>
+	<game>
+		<path>逆转裁判3.gba</path>
+		<name>逆转裁判3</name>
+		<image>~/thumbnails/02 GBA/Named_Snaps/逆转裁判3.png</image>
+	</game>
+	<game>
+		<path>鸟人战队1 时空大作战.gba</path>
+		<name>鸟人战队1 时空大作战</name>
+		<image>~/thumbnails/02 GBA/Named_Snaps/鸟人战队1 时空大作战.png</image>
+	</game>
+	<game>
+		<path>鸟人战队2 荒野力量.gba</path>
+		<name>鸟人战队2 荒野力量</name>
+		<image>~/thumbnails/02 GBA/Named_Snaps/鸟人战队2 荒野力量.png</image>
+	</game>
+	<game>
+		<path>鸟人战队3 忍者风暴.gba</path>
+		<name>鸟人战队3 忍者风暴</name>
+		<image>~/thumbnails/02 GBA/Named_Snaps/鸟人战队3 忍者风暴.png</image>
+	</game>
+	<game>
+		<path>鸟人战队4 巨龙雷鸣.gba</path>
+		<name>鸟人战队4 巨龙雷鸣</name>
+		<image>~/thumbnails/02 GBA/Named_Snaps/鸟人战队4 巨龙雷鸣.png</image>
+	</game>
+	<game>
+		<path>鸟人战队5 金刚战士S.P.D.gba</path>
+		<name>鸟人战队5 金刚战士S.P.D</name>
+		<image>~/thumbnails/02 GBA/Named_Snaps/鸟人战队5 金刚战士S.P.D.png</image>
+	</game>
+	<game>
+		<path>拳皇EX1 新血.gba</path>
+		<name>拳皇EX1 新血</name>
+		<image>~/thumbnails/02 GBA/Named_Snaps/拳皇EX1 新血.png</image>
+	</game>
+	<game>
+		<path>拳皇EX2 咆哮之血.gba</path>
+		<name>拳皇EX2 咆哮之血</name>
+		<image>~/thumbnails/02 GBA/Named_Snaps/拳皇EX2 咆哮之血.png</image>
+	</game>
+	<game>
+		<path>热血物语EX.gba</path>
+		<name>热血物语EX</name>
+		<image>~/thumbnails/02 GBA/Named_Snaps/热血物语EX.png</image>
+	</game>
+	<game>
+		<path>忍者神龟.gba</path>
+		<name>忍者神龟</name>
+		<image>~/thumbnails/02 GBA/Named_Snaps/忍者神龟.png</image>
+	</game>
+	<game>
+		<path>忍者刑警.gba</path>
+		<name>忍者刑警</name>
+		<image>~/thumbnails/02 GBA/Named_Snaps/忍者刑警.png</image>
+	</game>
+	<game>
+		<path>荣誉勋章 地下抵抗.gba</path>
+		<name>荣誉勋章 地下抵抗</name>
+		<image>~/thumbnails/02 GBA/Named_Snaps/荣誉勋章 地下抵抗.png</image>
+	</game>
+	<game>
+		<path>荣誉勋章 渗透者.gba</path>
+		<name>荣誉勋章 渗透者</name>
+		<image>~/thumbnails/02 GBA/Named_Snaps/荣誉勋章 渗透者.png</image>
+	</game>
+	<game>
+		<path>塞尔达传说 四支剑.gba</path>
+		<name>塞尔达传说 四支剑</name>
+		<image>~/thumbnails/02 GBA/Named_Snaps/塞尔达传说 四支剑.png</image>
+	</game>
+	<game>
+		<path>塞尔达传说 缩小帽.gba</path>
+		<name>塞尔达传说 缩小帽</name>
+		<image>~/thumbnails/02 GBA/Named_Snaps/塞尔达传说 缩小帽.png</image>
+	</game>
+	<game>
+		<path>圣诞夜惊魂 南瓜王.gba</path>
+		<name>圣诞夜惊魂 南瓜王</name>
+		<image>~/thumbnails/02 GBA/Named_Snaps/圣诞夜惊魂 南瓜王.png</image>
+	</game>
+	<game>
+		<path>守护英雄.gba</path>
+		<name>守护英雄</name>
+		<image>~/thumbnails/02 GBA/Named_Snaps/守护英雄.png</image>
+	</game>
+	<game>
+		<path>双截龙.gba</path>
+		<name>双截龙</name>
+		<image>~/thumbnails/02 GBA/Named_Snaps/双截龙.png</image>
+	</game>
+	<game>
+		<path>索尼克 进化1.gba</path>
+		<name>索尼克 进化1</name>
+		<image>~/thumbnails/02 GBA/Named_Snaps/索尼克 进化1.png</image>
+	</game>
+	<game>
+		<path>索尼克 进化2.gba</path>
+		<name>索尼克 进化2</name>
+		<image>~/thumbnails/02 GBA/Named_Snaps/索尼克 进化2.png</image>
+	</game>
+	<game>
+		<path>索尼克 进化3.gba</path>
+		<name>索尼克 进化3</name>
+		<image>~/thumbnails/02 GBA/Named_Snaps/索尼克 进化3.png</image>
+	</game>
+	<game>
+		<path>特种部队1.gba</path>
+		<name>特种部队1</name>
+		<image>~/thumbnails/02 GBA/Named_Snaps/特种部队1.png</image>
+	</game>
+	<game>
+		<path>特种部队2.gba</path>
+		<name>特种部队2</name>
+		<image>~/thumbnails/02 GBA/Named_Snaps/特种部队2.png</image>
+	</game>
+	<game>
+		<path>特种部队3.gba</path>
+		<name>特种部队3</name>
+		<image>~/thumbnails/02 GBA/Named_Snaps/特种部队3.png</image>
+	</game>
+	<game>
+		<path>铁臂阿童木 阿童木之心的秘密.gba</path>
+		<name>铁臂阿童木 阿童木之心的秘密</name>
+		<image>~/thumbnails/02 GBA/Named_Snaps/铁臂阿童木 阿童木之心的秘密.png</image>
+	</game>
+	<game>
+		<path>铁拳.gba</path>
+		<name>铁拳</name>
+		<image>~/thumbnails/02 GBA/Named_Snaps/铁拳.png</image>
+	</game>
+	<game>
+		<path>兔宝宝大冒险 糟糕的梦.gba</path>
+		<name>兔宝宝大冒险 糟糕的梦</name>
+		<image>~/thumbnails/02 GBA/Named_Snaps/兔宝宝大冒险 糟糕的梦.png</image>
+	</game>
+	<game>
+		<path>瓦力欧寻宝记.gba</path>
+		<name>瓦力欧寻宝记</name>
+		<image>~/thumbnails/02 GBA/Named_Snaps/瓦力欧寻宝记.png</image>
+	</game>
+	<game>
+		<path>瓦力欧制造.gba</path>
+		<name>瓦力欧制造</name>
+		<image>~/thumbnails/02 GBA/Named_Snaps/瓦力欧制造.png</image>
+	</game>
+	<game>
+		<path>我们的太阳.gba</path>
+		<name>我们的太阳</name>
+		<image>~/thumbnails/02 GBA/Named_Snaps/我们的太阳.png</image>
+	</game>
+	<game>
+		<path>恶灵骑士.gba</path>
+		<name>恶灵骑士</name>
+		<image>~/thumbnails/02 GBA/Named_Snaps/恶灵骑士.png</image>
+	</game>
+	<game>
+		<path>恶魔城 白夜协奏曲.gba</path>
+		<name>恶魔城 白夜协奏曲</name>
+		<image>~/thumbnails/02 GBA/Named_Snaps/恶魔城 白夜协奏曲.png</image>
+	</game>
+	<game>
+		<path>恶魔城 晓月圆舞曲.gba</path>
+		<name>恶魔城 晓月圆舞曲</name>
+		<image>~/thumbnails/02 GBA/Named_Snaps/恶魔城 晓月圆舞曲.png</image>
+	</game>
+	<game>
+		<path>恶魔城 月之轮回.gba</path>
+		<name>恶魔城 月之轮回</name>
+		<image>~/thumbnails/02 GBA/Named_Snaps/恶魔城 月之轮回.png</image>
+	</game>
+	<game>
+		<path>新约圣剑传说.gba</path>
+		<name>新约圣剑传说</name>
+		<image>~/thumbnails/02 GBA/Named_Snaps/新约圣剑传说.png</image>
+	</game>
+	<game>
+		<path>星之卡比 镜之大迷宫.gba</path>
+		<name>星之卡比 镜之大迷宫</name>
+		<image>~/thumbnails/02 GBA/Named_Snaps/星之卡比 镜之大迷宫.png</image>
+	</game>
+	<game>
+		<path>星之卡比 梦之泉物语.gba</path>
+		<name>星之卡比 梦之泉物语</name>
+		<image>~/thumbnails/02 GBA/Named_Snaps/星之卡比 梦之泉物语.png</image>
+	</game>
+	<game>
+		<path>幸运的卢克 通缉犯.gba</path>
+		<name>幸运的卢克 通缉犯</name>
+		<image>~/thumbnails/02 GBA/Named_Snaps/幸运的卢克 通缉犯.png</image>
+	</game>
+	<game>
+		<path>伊登战机.gba</path>
+		<name>伊登战机</name>
+		<image>~/thumbnails/02 GBA/Named_Snaps/伊登战机.png</image>
+	</game>
+	<game>
+		<path>银河战士 零点任务.gba</path>
+		<name>银河战士 零点任务</name>
+		<image>~/thumbnails/02 GBA/Named_Snaps/银河战士 零点任务.png</image>
+	</game>
+	<game>
+		<path>银河战士 融合.gba</path>
+		<name>银河战士 融合</name>
+		<image>~/thumbnails/02 GBA/Named_Snaps/银河战士 融合.png</image>
+	</game>
+	<game>
+		<path>勇者斗恶龙怪兽篇3 旅团之心.gba</path>
+		<name>勇者斗恶龙怪兽篇3 旅团之心</name>
+		<image>~/thumbnails/02 GBA/Named_Snaps/勇者斗恶龙怪兽篇3 旅团之心.png</image>
+	</game>
+	<game>
+		<path>宇宙巡航机.gba</path>
+		<name>宇宙巡航机</name>
+		<image>~/thumbnails/02 GBA/Named_Snaps/宇宙巡航机.png</image>
+	</game>
+	<game>
+		<path>侦探神宫寺三郎 白影少女.gba</path>
+		<name>侦探神宫寺三郎 白影少女</name>
+		<image>~/thumbnails/02 GBA/Named_Snaps/侦探神宫寺三郎 白影少女.png</image>
+	</game>
+	<game>
+		<path>终结者3.gba</path>
+		<name>终结者3</name>
+		<image>~/thumbnails/02 GBA/Named_Snaps/终结者3.png</image>
+	</game>
+	<game>
+		<path>重装机兵2改.gba</path>
+		<name>重装机兵2改</name>
+		<image>~/thumbnails/02 GBA/Named_Snaps/重装机兵2改.png</image>
+	</game>
+</gameList>

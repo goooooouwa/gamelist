@@ -1,0 +1,503 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>007 决斗.gg</path>
+		<name>007 决斗</name>
+		<image>~/thumbnails/10 GG/Named_Snaps/007 决斗.png</image>
+	</game>
+	<game>
+		<path>阿拉丁.gg</path>
+		<name>阿拉丁</name>
+		<image>~/thumbnails/10 GG/Named_Snaps/阿拉丁.png</image>
+	</game>
+	<game>
+		<path>蝙蝠侠1.gg</path>
+		<name>蝙蝠侠1</name>
+		<image>~/thumbnails/10 GG/Named_Snaps/蝙蝠侠1.png</image>
+	</game>
+	<game>
+		<path>蝙蝠侠2.gg</path>
+		<name>蝙蝠侠2</name>
+		<image>~/thumbnails/10 GG/Named_Snaps/蝙蝠侠2.png</image>
+	</game>
+	<game>
+		<path>蝙蝠侠3.gg</path>
+		<name>蝙蝠侠3</name>
+		<image>~/thumbnails/10 GG/Named_Snaps/蝙蝠侠3.png</image>
+	</game>
+	<game>
+		<path>波斯王子.gg</path>
+		<name>波斯王子</name>
+		<image>~/thumbnails/10 GG/Named_Snaps/波斯王子.png</image>
+	</game>
+	<game>
+		<path>仓库番.gg</path>
+		<name>仓库番</name>
+		<image>~/thumbnails/10 GG/Named_Snaps/仓库番.png</image>
+	</game>
+	<game>
+		<path>超级忍1.gg</path>
+		<name>超级忍1</name>
+		<image>~/thumbnails/10 GG/Named_Snaps/超级忍1.png</image>
+	</game>
+	<game>
+		<path>超级忍2.gg</path>
+		<name>超级忍2</name>
+		<image>~/thumbnails/10 GG/Named_Snaps/超级忍2.png</image>
+	</game>
+	<game>
+		<path>超人.gg</path>
+		<name>超人</name>
+		<image>~/thumbnails/10 GG/Named_Snaps/超人.png</image>
+	</game>
+	<game>
+		<path>吃豆小精灵.gg</path>
+		<name>吃豆小精灵</name>
+		<image>~/thumbnails/10 GG/Named_Snaps/吃豆小精灵.png</image>
+	</game>
+	<game>
+		<path>出击飞龙.gg</path>
+		<name>出击飞龙</name>
+		<image>~/thumbnails/10 GG/Named_Snaps/出击飞龙.png</image>
+	</game>
+	<game>
+		<path>饿狼传说特别版.gg</path>
+		<name>饿狼传说特别版</name>
+		<image>~/thumbnails/10 GG/Named_Snaps/饿狼传说特别版.png</image>
+	</game>
+	<game>
+		<path>钢铁侠.gg</path>
+		<name>钢铁侠</name>
+		<image>~/thumbnails/10 GG/Named_Snaps/钢铁侠.png</image>
+	</game>
+	<game>
+		<path>哥斯拉.gg</path>
+		<name>哥斯拉</name>
+		<image>~/thumbnails/10 GG/Named_Snaps/哥斯拉.png</image>
+	</game>
+	<game>
+		<path>怪物卡车大战.gg</path>
+		<name>怪物卡车大战</name>
+		<image>~/thumbnails/10 GG/Named_Snaps/怪物卡车大战.png</image>
+	</game>
+	<game>
+		<path>怪物世界2.gg</path>
+		<name>怪物世界2</name>
+		<image>~/thumbnails/10 GG/Named_Snaps/怪物世界2.png</image>
+	</game>
+	<game>
+		<path>灌篮高手.gg</path>
+		<name>灌篮高手</name>
+		<image>~/thumbnails/10 GG/Named_Snaps/灌篮高手.png</image>
+	</game>
+	<game>
+		<path>光明力量外传1.gg</path>
+		<name>光明力量外传1</name>
+		<image>~/thumbnails/10 GG/Named_Snaps/光明力量外传1.png</image>
+	</game>
+	<game>
+		<path>光明力量外传2.gg</path>
+		<name>光明力量外传2</name>
+		<image>~/thumbnails/10 GG/Named_Snaps/光明力量外传2.png</image>
+	</game>
+	<game>
+		<path>光明力量外传3.gg</path>
+		<name>光明力量外传3</name>
+		<image>~/thumbnails/10 GG/Named_Snaps/光明力量外传3.png</image>
+	</game>
+	<game>
+		<path>海豚历险记1.gg</path>
+		<name>海豚历险记1</name>
+		<image>~/thumbnails/10 GG/Named_Snaps/海豚历险记1.png</image>
+	</game>
+	<game>
+		<path>海豚历险记2.gg</path>
+		<name>海豚历险记2</name>
+		<image>~/thumbnails/10 GG/Named_Snaps/海豚历险记2.png</image>
+	</game>
+	<game>
+		<path>滑雪者.gg</path>
+		<name>滑雪者</name>
+		<image>~/thumbnails/10 GG/Named_Snaps/滑雪者.png</image>
+	</game>
+	<game>
+		<path>环游世界.gg</path>
+		<name>环游世界</name>
+		<image>~/thumbnails/10 GG/Named_Snaps/环游世界.png</image>
+	</game>
+	<game>
+		<path>火枪英雄.gg</path>
+		<name>火枪英雄</name>
+		<image>~/thumbnails/10 GG/Named_Snaps/火枪英雄.png</image>
+	</game>
+	<game>
+		<path>机甲战士.gg</path>
+		<name>机甲战士</name>
+		<image>~/thumbnails/10 GG/Named_Snaps/机甲战士.png</image>
+	</game>
+	<game>
+		<path>机械战警3.gg</path>
+		<name>机械战警3</name>
+		<image>~/thumbnails/10 GG/Named_Snaps/机械战警3.png</image>
+	</game>
+	<game>
+		<path>机械战警对终结者.gg</path>
+		<name>机械战警对终结者</name>
+		<image>~/thumbnails/10 GG/Named_Snaps/机械战警对终结者.png</image>
+	</game>
+	<game>
+		<path>蜡笔小新.gg</path>
+		<name>蜡笔小新</name>
+		<image>~/thumbnails/10 GG/Named_Snaps/蜡笔小新.png</image>
+	</game>
+	<game>
+		<path>浪潮武士.gg</path>
+		<name>浪潮武士</name>
+		<image>~/thumbnails/10 GG/Named_Snaps/浪潮武士.png</image>
+	</game>
+	<game>
+		<path>露娜.gg</path>
+		<name>露娜</name>
+		<image>~/thumbnails/10 GG/Named_Snaps/露娜.png</image>
+	</game>
+	<game>
+		<path>洛克人.gg</path>
+		<name>洛克人</name>
+		<image>~/thumbnails/10 GG/Named_Snaps/洛克人.png</image>
+	</game>
+	<game>
+		<path>猫和老鼠.gg</path>
+		<name>猫和老鼠</name>
+		<image>~/thumbnails/10 GG/Named_Snaps/猫和老鼠.png</image>
+	</game>
+	<game>
+		<path>猫捉老鼠.gg</path>
+		<name>猫捉老鼠</name>
+		<image>~/thumbnails/10 GG/Named_Snaps/猫捉老鼠.png</image>
+	</game>
+	<game>
+		<path>美人鱼.gg</path>
+		<name>美人鱼</name>
+		<image>~/thumbnails/10 GG/Named_Snaps/美人鱼.png</image>
+	</game>
+	<game>
+		<path>美少女战士.gg</path>
+		<name>美少女战士</name>
+		<image>~/thumbnails/10 GG/Named_Snaps/美少女战士.png</image>
+	</game>
+	<game>
+		<path>梦幻之星冒险.gg</path>
+		<name>梦幻之星冒险</name>
+		<image>~/thumbnails/10 GG/Named_Snaps/梦幻之星冒险.png</image>
+	</game>
+	<game>
+		<path>梦幻之星外传.gg</path>
+		<name>梦幻之星外传</name>
+		<image>~/thumbnails/10 GG/Named_Snaps/梦幻之星外传.png</image>
+	</game>
+	<game>
+		<path>米老鼠 魔法师.gg</path>
+		<name>米老鼠 魔法师</name>
+		<image>~/thumbnails/10 GG/Named_Snaps/米老鼠 魔法师.png</image>
+	</game>
+	<game>
+		<path>米老鼠 王国传说.gg</path>
+		<name>米老鼠 王国传说</name>
+		<image>~/thumbnails/10 GG/Named_Snaps/米老鼠 王国传说.png</image>
+	</game>
+	<game>
+		<path>米老鼠 终极挑战.gg</path>
+		<name>米老鼠 终极挑战</name>
+		<image>~/thumbnails/10 GG/Named_Snaps/米老鼠 终极挑战.png</image>
+	</game>
+	<game>
+		<path>怒之铁拳1.gg</path>
+		<name>怒之铁拳1</name>
+		<image>~/thumbnails/10 GG/Named_Snaps/怒之铁拳1.png</image>
+	</game>
+	<game>
+		<path>怒之铁拳2.gg</path>
+		<name>怒之铁拳2</name>
+		<image>~/thumbnails/10 GG/Named_Snaps/怒之铁拳2.png</image>
+	</game>
+	<game>
+		<path>女神转生外传1.gg</path>
+		<name>女神转生外传1</name>
+		<image>~/thumbnails/10 GG/Named_Snaps/女神转生外传1.png</image>
+	</game>
+	<game>
+		<path>女神转生外传2.gg</path>
+		<name>女神转生外传2</name>
+		<image>~/thumbnails/10 GG/Named_Snaps/女神转生外传2.png</image>
+	</game>
+	<game>
+		<path>泡泡龙.gg</path>
+		<name>泡泡龙</name>
+		<image>~/thumbnails/10 GG/Named_Snaps/泡泡龙.png</image>
+	</game>
+	<game>
+		<path>蚯蚓战士.gg</path>
+		<name>蚯蚓战士</name>
+		<image>~/thumbnails/10 GG/Named_Snaps/蚯蚓战士.png</image>
+	</game>
+	<game>
+		<path>忍者龙剑传.gg</path>
+		<name>忍者龙剑传</name>
+		<image>~/thumbnails/10 GG/Named_Snaps/忍者龙剑传.png</image>
+	</game>
+	<game>
+		<path>忍者蛙.gg</path>
+		<name>忍者蛙</name>
+		<image>~/thumbnails/10 GG/Named_Snaps/忍者蛙.png</image>
+	</game>
+	<game>
+		<path>上尉密令.gg</path>
+		<name>上尉密令</name>
+		<image>~/thumbnails/10 GG/Named_Snaps/上尉密令.png</image>
+	</game>
+	<game>
+		<path>狮子王.gg</path>
+		<name>狮子王</name>
+		<image>~/thumbnails/10 GG/Named_Snaps/狮子王.png</image>
+	</game>
+	<game>
+		<path>侍魂.gg</path>
+		<name>侍魂</name>
+		<image>~/thumbnails/10 GG/Named_Snaps/侍魂.png</image>
+	</game>
+	<game>
+		<path>双截龙.gg</path>
+		<name>双截龙</name>
+		<image>~/thumbnails/10 GG/Named_Snaps/双截龙.png</image>
+	</game>
+	<game>
+		<path>水晶战士.gg</path>
+		<name>水晶战士</name>
+		<image>~/thumbnails/10 GG/Named_Snaps/水晶战士.png</image>
+	</game>
+	<game>
+		<path>送报童.gg</path>
+		<name>送报童</name>
+		<image>~/thumbnails/10 GG/Named_Snaps/送报童.png</image>
+	</game>
+	<game>
+		<path>索尼克1.gg</path>
+		<name>索尼克1</name>
+		<image>~/thumbnails/10 GG/Named_Snaps/索尼克1.png</image>
+	</game>
+	<game>
+		<path>索尼克2.gg</path>
+		<name>索尼克2</name>
+		<image>~/thumbnails/10 GG/Named_Snaps/索尼克2.png</image>
+	</game>
+	<game>
+		<path>索尼克3.gg</path>
+		<name>索尼克3</name>
+		<image>~/thumbnails/10 GG/Named_Snaps/索尼克3.png</image>
+	</game>
+	<game>
+		<path>索尼克加强版1.gg</path>
+		<name>索尼克加强版1</name>
+		<image>~/thumbnails/10 GG/Named_Snaps/索尼克加强版1.png</image>
+	</game>
+	<game>
+		<path>索尼克加强版2.gg</path>
+		<name>索尼克加强版2</name>
+		<image>~/thumbnails/10 GG/Named_Snaps/索尼克加强版2.png</image>
+	</game>
+	<game>
+		<path>索尼克迷宫.gg</path>
+		<name>索尼克迷宫</name>
+		<image>~/thumbnails/10 GG/Named_Snaps/索尼克迷宫.png</image>
+	</game>
+	<game>
+		<path>索尼克赛车1.gg</path>
+		<name>索尼克赛车1</name>
+		<image>~/thumbnails/10 GG/Named_Snaps/索尼克赛车1.png</image>
+	</game>
+	<game>
+		<path>索尼克赛车2.gg</path>
+		<name>索尼克赛车2</name>
+		<image>~/thumbnails/10 GG/Named_Snaps/索尼克赛车2.png</image>
+	</game>
+	<game>
+		<path>索尼克弹珠台.gg</path>
+		<name>索尼克弹珠台</name>
+		<image>~/thumbnails/10 GG/Named_Snaps/索尼克弹珠台.png</image>
+	</game>
+	<game>
+		<path>塔尔斯大冒险.gg</path>
+		<name>塔尔斯大冒险</name>
+		<image>~/thumbnails/10 GG/Named_Snaps/塔尔斯大冒险.png</image>
+	</game>
+	<game>
+		<path>太空哈利.gg</path>
+		<name>太空哈利</name>
+		<image>~/thumbnails/10 GG/Named_Snaps/太空哈利.png</image>
+	</game>
+	<game>
+		<path>唐老鸭1.gg</path>
+		<name>唐老鸭1</name>
+		<image>~/thumbnails/10 GG/Named_Snaps/唐老鸭1.png</image>
+	</game>
+	<game>
+		<path>唐老鸭2.gg</path>
+		<name>唐老鸭2</name>
+		<image>~/thumbnails/10 GG/Named_Snaps/唐老鸭2.png</image>
+	</game>
+	<game>
+		<path>铁头小子.gg</path>
+		<name>铁头小子</name>
+		<image>~/thumbnails/10 GG/Named_Snaps/铁头小子.png</image>
+	</game>
+	<game>
+		<path>铁血战士2.gg</path>
+		<name>铁血战士2</name>
+		<image>~/thumbnails/10 GG/Named_Snaps/铁血战士2.png</image>
+	</game>
+	<game>
+		<path>外星王子.gg</path>
+		<name>外星王子</name>
+		<image>~/thumbnails/10 GG/Named_Snaps/外星王子.png</image>
+	</game>
+	<game>
+		<path>网球.gg</path>
+		<name>网球</name>
+		<image>~/thumbnails/10 GG/Named_Snaps/网球.png</image>
+	</game>
+	<game>
+		<path>吸血鬼复苏.gg</path>
+		<name>吸血鬼复苏</name>
+		<image>~/thumbnails/10 GG/Named_Snaps/吸血鬼复苏.png</image>
+	</game>
+	<game>
+		<path>辛普森一家.gg</path>
+		<name>辛普森一家</name>
+		<image>~/thumbnails/10 GG/Named_Snaps/辛普森一家.png</image>
+	</game>
+	<game>
+		<path>星际旅行1.gg</path>
+		<name>星际旅行1</name>
+		<image>~/thumbnails/10 GG/Named_Snaps/星际旅行1.png</image>
+	</game>
+	<game>
+		<path>星际旅行2.gg</path>
+		<name>星际旅行2</name>
+		<image>~/thumbnails/10 GG/Named_Snaps/星际旅行2.png</image>
+	</game>
+	<game>
+		<path>星球大战1.gg</path>
+		<name>星球大战1</name>
+		<image>~/thumbnails/10 GG/Named_Snaps/星球大战1.png</image>
+	</game>
+	<game>
+		<path>星球大战2.gg</path>
+		<name>星球大战2</name>
+		<image>~/thumbnails/10 GG/Named_Snaps/星球大战2.png</image>
+	</game>
+	<game>
+		<path>异形3.gg</path>
+		<name>异形3</name>
+		<image>~/thumbnails/10 GG/Named_Snaps/异形3.png</image>
+	</game>
+	<game>
+		<path>异形特攻队.gg</path>
+		<name>异形特攻队</name>
+		<image>~/thumbnails/10 GG/Named_Snaps/异形特攻队.png</image>
+	</game>
+	<game>
+		<path>幽游白书1.gg</path>
+		<name>幽游白书1</name>
+		<image>~/thumbnails/10 GG/Named_Snaps/幽游白书1.png</image>
+	</game>
+	<game>
+		<path>幽游白书2.gg</path>
+		<name>幽游白书2</name>
+		<image>~/thumbnails/10 GG/Named_Snaps/幽游白书2.png</image>
+	</game>
+	<game>
+		<path>真宝珠小子.gg</path>
+		<name>真宝珠小子</name>
+		<image>~/thumbnails/10 GG/Named_Snaps/真宝珠小子.png</image>
+	</game>
+	<game>
+		<path>真人快打1.gg</path>
+		<name>真人快打1</name>
+		<image>~/thumbnails/10 GG/Named_Snaps/真人快打1.png</image>
+	</game>
+	<game>
+		<path>真人快打2.gg</path>
+		<name>真人快打2</name>
+		<image>~/thumbnails/10 GG/Named_Snaps/真人快打2.png</image>
+	</game>
+	<game>
+		<path>真人快打3.gg</path>
+		<name>真人快打3</name>
+		<image>~/thumbnails/10 GG/Named_Snaps/真人快打3.png</image>
+	</game>
+	<game>
+		<path>蜘蛛侠1.gg</path>
+		<name>蜘蛛侠1</name>
+		<image>~/thumbnails/10 GG/Named_Snaps/蜘蛛侠1.png</image>
+	</game>
+	<game>
+		<path>蜘蛛侠2.gg</path>
+		<name>蜘蛛侠2</name>
+		<image>~/thumbnails/10 GG/Named_Snaps/蜘蛛侠2.png</image>
+	</game>
+	<game>
+		<path>蜘蛛侠3.gg</path>
+		<name>蜘蛛侠3</name>
+		<image>~/thumbnails/10 GG/Named_Snaps/蜘蛛侠3.png</image>
+	</game>
+	<game>
+		<path>终结者1.gg</path>
+		<name>终结者1</name>
+		<image>~/thumbnails/10 GG/Named_Snaps/终结者1.png</image>
+	</game>
+	<game>
+		<path>终结者2 街机.gg</path>
+		<name>终结者2 街机</name>
+		<image>~/thumbnails/10 GG/Named_Snaps/终结者2 街机.png</image>
+	</game>
+	<game>
+		<path>终结者2 审判日.gg</path>
+		<name>终结者2 审判日</name>
+		<image>~/thumbnails/10 GG/Named_Snaps/终结者2 审判日.png</image>
+	</game>
+	<game>
+		<path>侏罗纪公园.gg</path>
+		<name>侏罗纪公园</name>
+		<image>~/thumbnails/10 GG/Named_Snaps/侏罗纪公园.png</image>
+	</game>
+	<game>
+		<path>最后的动作英雄.gg</path>
+		<name>最后的动作英雄</name>
+		<image>~/thumbnails/10 GG/Named_Snaps/最后的动作英雄.png</image>
+	</game>
+	<game>
+		<path>F-15飞鹰.gg</path>
+		<name>F-15飞鹰</name>
+		<image>~/thumbnails/10 GG/Named_Snaps/F-15飞鹰.png</image>
+	</game>
+	<game>
+		<path>VR战士.gg</path>
+		<name>VR战士</name>
+		<image>~/thumbnails/10 GG/Named_Snaps/VR战士.png</image>
+	</game>
+	<game>
+		<path>X战警1.gg</path>
+		<name>X战警1</name>
+		<image>~/thumbnails/10 GG/Named_Snaps/X战警1.png</image>
+	</game>
+	<game>
+		<path>X战警2.gg</path>
+		<name>X战警2</name>
+		<image>~/thumbnails/10 GG/Named_Snaps/X战警2.png</image>
+	</game>
+	<game>
+		<path>X战警3.gg</path>
+		<name>X战警3</name>
+		<image>~/thumbnails/10 GG/Named_Snaps/X战警3.png</image>
+	</game>
+</gameList>

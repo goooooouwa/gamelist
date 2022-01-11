@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>Crazy Taxi.cdi</path>
+		<name>疯狂出租车</name>
+		<image>~/thumbnails/16 DC/Named_Snaps/疯狂出租车.png</image>
+	</game>
+	<game>
+		<path>Daytona USA.cdi</path>
+		<name>梦游美国</name>
+		<image>~/thumbnails/16 DC/Named_Snaps/梦游美国.png</image>
+	</game>
+	<game>
+		<path>Dead or Alive 2.cdi</path>
+		<name>死或生2</name>
+		<image>~/thumbnails/16 DC/Named_Snaps/死或生2.png</image>
+	</game>
+	<game>
+		<path>Dino Crisis.cdi</path>
+		<name>恐龙危机</name>
+		<image>~/thumbnails/16 DC/Named_Snaps/恐龙危机.png</image>
+	</game>
+	<game>
+		<path>Doraemon.cdi</path>
+		<name>我是哆啦A梦</name>
+		<image>~/thumbnails/16 DC/Named_Snaps/我是哆啦A梦.png</image>
+	</game>
+	<game>
+		<path>Power Stone.cdi</path>
+		<name>能量宝石</name>
+		<image>~/thumbnails/16 DC/Named_Snaps/能量宝石.png</image>
+	</game>
+	<game>
+		<path>Ring.cdi</path>
+		<name>午夜凶铃</name>
+		<image>~/thumbnails/16 DC/Named_Snaps/午夜凶铃.png</image>
+	</game>
+	<game>
+		<path>Sega Rally 2.cdi</path>
+		<name>Sega Rally 2</name>
+		<image>~/thumbnails/16 DC/Named_Snaps/Sega Rally 2.png</image>
+	</game>
+	<game>
+		<path>SGGG.cdi</path>
+		<name>世嘉嘉嘉</name>
+		<image>~/thumbnails/16 DC/Named_Snaps/世嘉嘉嘉.png</image>
+	</game>
+	<game>
+		<path>Shenmue A.cdi</path>
+		<name>莎木 A</name>
+		<image>~/thumbnails/16 DC/Named_Snaps/莎木 A.png</image>
+	</game>
+	<game>
+		<path>Shenmue B.cdi</path>
+		<name>莎木 B</name>
+		<image>~/thumbnails/16 DC/Named_Snaps/莎木 B.png</image>
+	</game>
+	<game>
+		<path>Sonic Adventure.cdi</path>
+		<name>索尼克大冒险</name>
+		<image>~/thumbnails/16 DC/Named_Snaps/索尼克大冒险.png</image>
+	</game>
+</gameList>

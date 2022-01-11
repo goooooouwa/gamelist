@@ -1,0 +1,503 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>蝙蝠侠1.nes</path>
+		<image>~/thumbnails/05 FC/Named_Snaps/蝙蝠侠1.png</image>
+		<name>蝙蝠侠1</name>
+	</game>
+	<game>
+		<path>蝙蝠侠2.nes</path>
+		<image>~/thumbnails/05 FC/Named_Snaps/蝙蝠侠2.png</image>
+		<name>蝙蝠侠2</name>
+	</game>
+	<game>
+		<path>蝙蝠侠3.nes</path>
+		<image>~/thumbnails/05 FC/Named_Snaps/蝙蝠侠3.png</image>
+		<name>蝙蝠侠3</name>
+	</game>
+	<game>
+		<path>不动明王传.nes</path>
+		<image>~/thumbnails/05 FC/Named_Snaps/不动明王传.png</image>
+		<name>不动明王传</name>
+	</game>
+	<game>
+		<path>超级马力欧1.nes</path>
+		<image>~/thumbnails/05 FC/Named_Snaps/超级马力欧1.png</image>
+		<name>超级马力欧1</name>
+	</game>
+	<game>
+		<path>超级马力欧2.nes</path>
+		<image>~/thumbnails/05 FC/Named_Snaps/超级马力欧2.png</image>
+		<name>超级马力欧2</name>
+	</game>
+	<game>
+		<path>超级马力欧3.nes</path>
+		<image>~/thumbnails/05 FC/Named_Snaps/超级马力欧3.png</image>
+		<name>超级马力欧3</name>
+	</game>
+	<game>
+		<path>超级马力欧拆屋工.nes</path>
+		<image>~/thumbnails/05 FC/Named_Snaps/超级马力欧拆屋工.png</image>
+		<name>超级马力欧拆屋工</name>
+	</game>
+	<game>
+		<path>超级马力欧兄弟.nes</path>
+		<image>~/thumbnails/05 FC/Named_Snaps/超级马力欧兄弟.png</image>
+		<name>超级马力欧兄弟</name>
+	</game>
+	<game>
+		<path>超级马力欧医生.nes</path>
+		<image>~/thumbnails/05 FC/Named_Snaps/超级马力欧医生.png</image>
+		<name>超级马力欧医生</name>
+	</game>
+	<game>
+		<path>成龙之龙.nes</path>
+		<image>~/thumbnails/05 FC/Named_Snaps/成龙之龙.png</image>
+		<name>成龙之龙</name>
+	</game>
+	<game>
+		<path>赤色要塞.nes</path>
+		<image>~/thumbnails/05 FC/Named_Snaps/赤色要塞.png</image>
+		<name>赤色要塞</name>
+	</game>
+	<game>
+		<path>地底探险.nes</path>
+		<image>~/thumbnails/05 FC/Named_Snaps/地底探险.png</image>
+		<name>地底探险</name>
+	</game>
+	<game>
+		<path>帝国战机.nes</path>
+		<image>~/thumbnails/05 FC/Named_Snaps/帝国战机.png</image>
+		<name>帝国战机</name>
+	</game>
+	<game>
+		<path>第2次超级机器人大战.nes</path>
+		<image>~/thumbnails/05 FC/Named_Snaps/第2次超级机器人大战.png</image>
+		<name>第2次超级机器人大战</name>
+	</game>
+	<game>
+		<path>俄罗斯方块.nes</path>
+		<image>~/thumbnails/05 FC/Named_Snaps/俄罗斯方块.png</image>
+		<name>俄罗斯方块</name>
+	</game>
+	<game>
+		<path>饿狼传说特别版.nes</path>
+		<image>~/thumbnails/05 FC/Named_Snaps/饿狼传说特别版.png</image>
+		<name>饿狼传说特别版</name>
+	</game>
+	<game>
+		<path>鳄鱼先生.nes</path>
+		<image>~/thumbnails/05 FC/Named_Snaps/鳄鱼先生.png</image>
+		<name>鳄鱼先生</name>
+	</game>
+	<game>
+		<path>功夫.nes</path>
+		<image>~/thumbnails/05 FC/Named_Snaps/功夫.png</image>
+		<name>功夫</name>
+	</game>
+	<game>
+		<path>孤独战士 惑星戒严令.nes</path>
+		<image>~/thumbnails/05 FC/Named_Snaps/孤独战士 惑星戒严令.png</image>
+		<name>孤独战士 惑星戒严令</name>
+	</game>
+	<game>
+		<path>古巴战士.nes</path>
+		<image>~/thumbnails/05 FC/Named_Snaps/古巴战士.png</image>
+		<name>古巴战士</name>
+	</game>
+	<game>
+		<path>合金装备.nes</path>
+		<image>~/thumbnails/05 FC/Named_Snaps/合金装备.png</image>
+		<name>合金装备</name>
+	</game>
+	<game>
+		<path>荒野大镖客.nes</path>
+		<image>~/thumbnails/05 FC/Named_Snaps/荒野大镖客.png</image>
+		<name>荒野大镖客</name>
+	</game>
+	<game>
+		<path>魂斗罗1.nes</path>
+		<image>~/thumbnails/05 FC/Named_Snaps/魂斗罗1.png</image>
+		<name>魂斗罗1</name>
+	</game>
+	<game>
+		<path>魂斗罗2.nes</path>
+		<image>~/thumbnails/05 FC/Named_Snaps/魂斗罗2.png</image>
+		<name>魂斗罗2</name>
+	</game>
+	<game>
+		<path>魂斗罗3 力量.nes</path>
+		<image>~/thumbnails/05 FC/Named_Snaps/魂斗罗3 力量.png</image>
+		<name>魂斗罗3 力量</name>
+	</game>
+	<game>
+		<path>火炮.nes</path>
+		<image>~/thumbnails/05 FC/Named_Snaps/火炮.png</image>
+		<name>火炮</name>
+	</game>
+	<game>
+		<path>加纳战机.nes</path>
+		<image>~/thumbnails/05 FC/Named_Snaps/加纳战机.png</image>
+		<name>加纳战机</name>
+	</game>
+	<game>
+		<path>嘉蒂外传.nes</path>
+		<image>~/thumbnails/05 FC/Named_Snaps/嘉蒂外传.png</image>
+		<name>嘉蒂外传</name>
+	</game>
+	<game>
+		<path>街头霸王II.nes</path>
+		<image>~/thumbnails/05 FC/Named_Snaps/街头霸王II.png</image>
+		<name>街头霸王II</name>
+	</game>
+	<game>
+		<path>空中魂斗罗 最终任务.nes</path>
+		<image>~/thumbnails/05 FC/Named_Snaps/空中魂斗罗 最终任务.png</image>
+		<name>空中魂斗罗 最终任务</name>
+	</game>
+	<game>
+		<path>快打旋风.nes</path>
+		<image>~/thumbnails/05 FC/Named_Snaps/快打旋风.png</image>
+		<name>快打旋风</name>
+	</game>
+	<game>
+		<path>力量刀锋1.nes</path>
+		<image>~/thumbnails/05 FC/Named_Snaps/力量刀锋1.png</image>
+		<name>力量刀锋1</name>
+	</game>
+	<game>
+		<path>力量刀锋2.nes</path>
+		<image>~/thumbnails/05 FC/Named_Snaps/力量刀锋2.png</image>
+		<name>力量刀锋2</name>
+	</game>
+	<game>
+		<path>烈火.nes</path>
+		<image>~/thumbnails/05 FC/Named_Snaps/烈火.png</image>
+		<name>烈火</name>
+	</game>
+	<game>
+		<path>龙牙.nes</path>
+		<image>~/thumbnails/05 FC/Named_Snaps/龙牙.png</image>
+		<name>龙牙</name>
+	</game>
+	<game>
+		<path>洛克人1.nes</path>
+		<image>~/thumbnails/05 FC/Named_Snaps/洛克人1.png</image>
+		<name>洛克人1</name>
+	</game>
+	<game>
+		<path>洛克人2 Dr.Wily之谜.nes</path>
+		<image>~/thumbnails/05 FC/Named_Snaps/洛克人2 Dr.Wily之谜.png</image>
+		<name>洛克人2 Dr.Wily之谜</name>
+	</game>
+	<game>
+		<path>洛克人3 Dr.Wily的末日.nes</path>
+		<image>~/thumbnails/05 FC/Named_Snaps/洛克人3 Dr.Wily的末日.png</image>
+		<name>洛克人3 Dr.Wily的末日</name>
+	</game>
+	<game>
+		<path>洛克人4 新的野心.nes</path>
+		<image>~/thumbnails/05 FC/Named_Snaps/洛克人4 新的野心.png</image>
+		<name>洛克人4 新的野心</name>
+	</game>
+	<game>
+		<path>洛克人5 布鲁斯的圈套.nes</path>
+		<image>~/thumbnails/05 FC/Named_Snaps/洛克人5 布鲁斯的圈套.png</image>
+		<name>洛克人5 布鲁斯的圈套</name>
+	</game>
+	<game>
+		<path>洛克人6 史上最长的战斗.nes</path>
+		<image>~/thumbnails/05 FC/Named_Snaps/洛克人6 史上最长的战斗.png</image>
+		<name>洛克人6 史上最长的战斗</name>
+	</game>
+	<game>
+		<path>绿色兵团.nes</path>
+		<image>~/thumbnails/05 FC/Named_Snaps/绿色兵团.png</image>
+		<name>绿色兵团</name>
+	</game>
+	<game>
+		<path>冒险岛1.nes</path>
+		<image>~/thumbnails/05 FC/Named_Snaps/冒险岛1.png</image>
+		<name>冒险岛1</name>
+	</game>
+	<game>
+		<path>冒险岛2.nes</path>
+		<image>~/thumbnails/05 FC/Named_Snaps/冒险岛2.png</image>
+		<name>冒险岛2</name>
+	</game>
+	<game>
+		<path>冒险岛3.nes</path>
+		<image>~/thumbnails/05 FC/Named_Snaps/冒险岛3.png</image>
+		<name>冒险岛3</name>
+	</game>
+	<game>
+		<path>冒险岛4.nes</path>
+		<image>~/thumbnails/05 FC/Named_Snaps/冒险岛4.png</image>
+		<name>冒险岛4</name>
+	</game>
+	<game>
+		<path>魔界村.nes</path>
+		<image>~/thumbnails/05 FC/Named_Snaps/魔界村.png</image>
+		<name>魔界村</name>
+	</game>
+	<game>
+		<path>鸟人战队.nes</path>
+		<image>~/thumbnails/05 FC/Named_Snaps/鸟人战队.png</image>
+		<name>鸟人战队</name>
+	</game>
+	<game>
+		<path>怒1.nes</path>
+		<image>~/thumbnails/05 FC/Named_Snaps/怒1.png</image>
+		<name>怒1</name>
+	</game>
+	<game>
+		<path>怒2.nes</path>
+		<image>~/thumbnails/05 FC/Named_Snaps/怒2.png</image>
+		<name>怒2</name>
+	</game>
+	<game>
+		<path>怒3.nes</path>
+		<image>~/thumbnails/05 FC/Named_Snaps/怒3.png</image>
+		<name>怒3</name>
+	</game>
+	<game>
+		<path>拳皇96.nes</path>
+		<image>~/thumbnails/05 FC/Named_Snaps/拳皇96.png</image>
+		<name>拳皇96</name>
+	</game>
+	<game>
+		<path>热血物语.nes</path>
+		<image>~/thumbnails/05 FC/Named_Snaps/热血物语.png</image>
+		<name>热血物语</name>
+	</game>
+	<game>
+		<path>人间兵器.nes</path>
+		<image>~/thumbnails/05 FC/Named_Snaps/人间兵器.png</image>
+		<name>人间兵器</name>
+	</game>
+	<game>
+		<path>忍者龙剑传1.nes</path>
+		<image>~/thumbnails/05 FC/Named_Snaps/忍者龙剑传1.png</image>
+		<name>忍者龙剑传1</name>
+	</game>
+	<game>
+		<path>忍者龙剑传2.nes</path>
+		<image>~/thumbnails/05 FC/Named_Snaps/忍者龙剑传2.png</image>
+		<name>忍者龙剑传2</name>
+	</game>
+	<game>
+		<path>忍者龙剑传3.nes</path>
+		<image>~/thumbnails/05 FC/Named_Snaps/忍者龙剑传3.png</image>
+		<name>忍者龙剑传3</name>
+	</game>
+	<game>
+		<path>忍者神龟1.nes</path>
+		<image>~/thumbnails/05 FC/Named_Snaps/忍者神龟1.png</image>
+		<name>忍者神龟1</name>
+	</game>
+	<game>
+		<path>忍者神龟2.nes</path>
+		<image>~/thumbnails/05 FC/Named_Snaps/忍者神龟2.png</image>
+		<name>忍者神龟2</name>
+	</game>
+	<game>
+		<path>忍者神龟3.nes</path>
+		<image>~/thumbnails/05 FC/Named_Snaps/忍者神龟3.png</image>
+		<name>忍者神龟3</name>
+	</game>
+	<game>
+		<path>忍者神龟4.nes</path>
+		<image>~/thumbnails/05 FC/Named_Snaps/忍者神龟4.png</image>
+		<name>忍者神龟4</name>
+	</game>
+	<game>
+		<path>忍者蛙.nes</path>
+		<image>~/thumbnails/05 FC/Named_Snaps/忍者蛙.png</image>
+		<name>忍者蛙</name>
+	</game>
+	<game>
+		<path>忍者蛙和双截龙.nes</path>
+		<image>~/thumbnails/05 FC/Named_Snaps/忍者蛙和双截龙.png</image>
+		<name>忍者蛙和双截龙</name>
+	</game>
+	<game>
+		<path>塞尔达传说1 幻想大陆海尔拉.nes</path>
+		<image>~/thumbnails/05 FC/Named_Snaps/塞尔达传说1 幻想大陆海尔拉.png</image>
+		<name>塞尔达传说1 幻想大陆海尔拉</name>
+	</game>
+	<game>
+		<path>塞尔达传说2 林克冒险.nes</path>
+		<image>~/thumbnails/05 FC/Named_Snaps/塞尔达传说2 林克冒险.png</image>
+		<name>塞尔达传说2 林克冒险</name>
+	</game>
+	<game>
+		<path>三眼神童.nes</path>
+		<image>~/thumbnails/05 FC/Named_Snaps/三眼神童.png</image>
+		<name>三眼神童</name>
+	</game>
+	<game>
+		<path>沙罗曼蛇.nes</path>
+		<image>~/thumbnails/05 FC/Named_Snaps/沙罗曼蛇.png</image>
+		<name>沙罗曼蛇</name>
+	</game>
+	<game>
+		<path>神勇小白兔.nes</path>
+		<image>~/thumbnails/05 FC/Named_Snaps/神勇小白兔.png</image>
+		<name>神勇小白兔</name>
+	</game>
+	<game>
+		<path>生化危机.nes</path>
+		<image>~/thumbnails/05 FC/Named_Snaps/生化危机.png</image>
+		<name>生化危机</name>
+	</game>
+	<game>
+		<path>侍魂.nes</path>
+		<image>~/thumbnails/05 FC/Named_Snaps/侍魂.png</image>
+		<name>侍魂</name>
+	</game>
+	<game>
+		<path>双截龙1.nes</path>
+		<image>~/thumbnails/05 FC/Named_Snaps/双截龙1.png</image>
+		<name>双截龙1</name>
+	</game>
+	<game>
+		<path>双截龙2.nes</path>
+		<image>~/thumbnails/05 FC/Named_Snaps/双截龙2.png</image>
+		<name>双截龙2</name>
+	</game>
+	<game>
+		<path>双截龙3.nes</path>
+		<image>~/thumbnails/05 FC/Named_Snaps/双截龙3.png</image>
+		<name>双截龙3</name>
+	</game>
+	<game>
+		<path>水上魂斗罗 赤影战士.nes</path>
+		<image>~/thumbnails/05 FC/Named_Snaps/水上魂斗罗 赤影战士.png</image>
+		<name>水上魂斗罗 赤影战士</name>
+	</game>
+	<game>
+		<path>松鼠大作战1.nes</path>
+		<image>~/thumbnails/05 FC/Named_Snaps/松鼠大作战1.png</image>
+		<name>松鼠大作战1</name>
+	</game>
+	<game>
+		<path>松鼠大作战2.nes</path>
+		<image>~/thumbnails/05 FC/Named_Snaps/松鼠大作战2.png</image>
+		<name>松鼠大作战2</name>
+	</game>
+	<game>
+		<path>坦克大战.nes</path>
+		<image>~/thumbnails/05 FC/Named_Snaps/坦克大战.png</image>
+		<name>坦克大战</name>
+	</game>
+	<game>
+		<path>特救指令.nes</path>
+		<image>~/thumbnails/05 FC/Named_Snaps/特救指令.png</image>
+		<name>特救指令</name>
+	</game>
+	<game>
+		<path>吞食天地1 三国志英杰传.nes</path>
+		<image>~/thumbnails/05 FC/Named_Snaps/吞食天地1 三国志英杰传.png</image>
+		<name>吞食天地1 三国志英杰传</name>
+	</game>
+	<game>
+		<path>吞食天地2 诸葛孔明传.nes</path>
+		<image>~/thumbnails/05 FC/Named_Snaps/吞食天地2 诸葛孔明传.png</image>
+		<name>吞食天地2 诸葛孔明传</name>
+	</game>
+	<game>
+		<path>脱狱.nes</path>
+		<image>~/thumbnails/05 FC/Named_Snaps/脱狱.png</image>
+		<name>脱狱</name>
+	</game>
+	<game>
+		<path>恶魔城1.nes</path>
+		<image>~/thumbnails/05 FC/Named_Snaps/恶魔城1.png</image>
+		<name>恶魔城1</name>
+	</game>
+	<game>
+		<path>恶魔城2.nes</path>
+		<image>~/thumbnails/05 FC/Named_Snaps/恶魔城2.png</image>
+		<name>恶魔城2</name>
+	</game>
+	<game>
+		<path>恶魔城3.nes</path>
+		<image>~/thumbnails/05 FC/Named_Snaps/恶魔城3.png</image>
+		<name>恶魔城3</name>
+	</game>
+	<game>
+		<path>恶魔城外传 王子传奇.nes</path>
+		<image>~/thumbnails/05 FC/Named_Snaps/恶魔城外传 王子传奇.png</image>
+		<name>恶魔城外传 王子传奇</name>
+	</game>
+	<game>
+		<path>西游记世界.nes</path>
+		<image>~/thumbnails/05 FC/Named_Snaps/西游记世界.png</image>
+		<name>西游记世界</name>
+	</game>
+	<game>
+		<path>星际魂斗罗 最终殖民地.nes</path>
+		<image>~/thumbnails/05 FC/Named_Snaps/星际魂斗罗 最终殖民地.png</image>
+		<name>星际魂斗罗 最终殖民地</name>
+	</game>
+	<game>
+		<path>星之卡比 梦之泉物语.nes</path>
+		<image>~/thumbnails/05 FC/Named_Snaps/星之卡比 梦之泉物语.png</image>
+		<name>星之卡比 梦之泉物语</name>
+	</game>
+	<game>
+		<path>雪人兄弟.nes</path>
+		<image>~/thumbnails/05 FC/Named_Snaps/雪人兄弟.png</image>
+		<name>雪人兄弟</name>
+	</game>
+	<game>
+		<path>眼镜蛇特种部队1.nes</path>
+		<image>~/thumbnails/05 FC/Named_Snaps/眼镜蛇特种部队1.png</image>
+		<name>眼镜蛇特种部队1</name>
+	</game>
+	<game>
+		<path>眼镜蛇特种部队2.nes</path>
+		<image>~/thumbnails/05 FC/Named_Snaps/眼镜蛇特种部队2.png</image>
+		<name>眼镜蛇特种部队2</name>
+	</game>
+	<game>
+		<path>银河战士.nes</path>
+		<image>~/thumbnails/05 FC/Named_Snaps/银河战士.png</image>
+		<name>银河战士</name>
+	</game>
+	<game>
+		<path>战场之狼.nes</path>
+		<image>~/thumbnails/05 FC/Named_Snaps/战场之狼.png</image>
+		<name>战场之狼</name>
+	</game>
+	<game>
+		<path>中东战争.nes</path>
+		<image>~/thumbnails/05 FC/Named_Snaps/中东战争.png</image>
+		<name>中东战争</name>
+	</game>
+	<game>
+		<path>中国象棋.nes</path>
+		<image>~/thumbnails/05 FC/Named_Snaps/中国象棋.png</image>
+		<name>中国象棋</name>
+	</game>
+	<game>
+		<path>终结者1.nes</path>
+		<image>~/thumbnails/05 FC/Named_Snaps/终结者1.png</image>
+		<name>终结者1</name>
+	</game>
+	<game>
+		<path>终结者2 审判日.nes</path>
+		<image>~/thumbnails/05 FC/Named_Snaps/终结者2 审判日.png</image>
+		<name>终结者2 审判日</name>
+	</game>
+	<game>
+		<path>重装机兵.nes</path>
+		<image>~/thumbnails/05 FC/Named_Snaps/重装机兵.png</image>
+		<name>重装机兵</name>
+	</game>
+	<game>
+		<path>最终幻想7.nes</path>
+		<image>~/thumbnails/05 FC/Named_Snaps/最终幻想7.png</image>
+		<name>最终幻想7</name>
+	</game>
+</gameList>

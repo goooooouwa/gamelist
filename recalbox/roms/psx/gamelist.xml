@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>阿兰多拉.PBP</path>
+		<name>阿兰多拉</name>
+		<image>~/thumbnails/17 PS1/Named_Snaps/阿兰多拉.png</image>
+	</game>
+	<game>
+		<path>放浪冒险谭.PBP</path>
+		<name>放浪冒险谭</name>
+		<image>~/thumbnails/17 PS1/Named_Snaps/放浪冒险谭.png</image>
+	</game>
+	<game>
+		<path>魂斗罗 进化.PBP</path>
+		<name>魂斗罗 进化</name>
+		<image>~/thumbnails/17 PS1/Named_Snaps/魂斗罗 进化.png</image>
+	</game>
+	<game>
+		<path>寄生前夜1.PBP</path>
+		<name>寄生前夜1</name>
+		<image>~/thumbnails/17 PS1/Named_Snaps/寄生前夜1.png</image>
+	</game>
+	<game>
+		<path>寄生前夜2.PBP</path>
+		<name>寄生前夜2</name>
+		<image>~/thumbnails/17 PS1/Named_Snaps/寄生前夜2.png</image>
+	</game>
+	<game>
+		<path>山脊赛车4.PBP</path>
+		<name>山脊赛车4</name>
+		<image>~/thumbnails/17 PS1/Named_Snaps/山脊赛车4.png</image>
+	</game>
+	<game>
+		<path>射雕英雄传.PBP</path>
+		<name>射雕英雄传</name>
+		<image>~/thumbnails/17 PS1/Named_Snaps/射雕英雄传.png</image>
+	</game>
+	<game>
+		<path>铁拳3.PBP</path>
+		<name>铁拳3</name>
+		<image>~/thumbnails/17 PS1/Named_Snaps/铁拳3.png</image>
+	</game>
+	<game>
+		<path>恶魔城X 月下夜想曲.PBP</path>
+		<name>恶魔城X 月下夜想曲</name>
+		<image>~/thumbnails/17 PS1/Named_Snaps/恶魔城X 月下夜想曲.png</image>
+	</game>
+	<game>
+		<path>CAPCOM VS SNK 千禧之战.PBP</path>
+		<name>CAPCOM VS SNK 千禧之战</name>
+		<image>~/thumbnails/17 PS1/Named_Snaps/CAPCOM VS SNK 千禧之战.png</image>
+	</game>
+</gameList>
