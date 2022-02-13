@@ -1,0 +1,811 @@
+{
+  "version": "1.4",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "sort_mode": 0,
+  "items": [
+    {
+      "path": "/roms/MAME/s1945.zip",
+      "label": "1945 1",
+      "core_path": "DETECT",
+      "core_name": "Arcade (FB Alpha 2012)",
+      "crc32": "MAME.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/MAME/s1945ii.zip",
+      "label": "1945 2",
+      "core_path": "DETECT",
+      "core_name": "FB Alpha 2012",
+      "crc32": "MAME.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/MAME/1945kiii.zip",
+      "label": "1945 3",
+      "core_path": "DETECT",
+      "core_name": "FB Alpha 2012",
+      "crc32": "MAME.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/MAME/64streetja.zip",
+      "label": "64号街区",
+      "core_path": "DETECT",
+      "core_name": "Arcade (FB Alpha 2012)",
+      "crc32": "MAME.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/MAME/jojo.zip",
+      "label": "JOJO的奇妙冒险",
+      "core_path": "DETECT",
+      "core_name": "Arcade (FB Alpha 2012)",
+      "crc32": "MAME.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/MAME/xmen.zip",
+      "label": "X战警",
+      "core_path": "DETECT",
+      "core_name": "Arcade (FB Alpha 2012)",
+      "crc32": "MAME.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/MAME/Superdbz.zip",
+      "label": "七龙珠Z1",
+      "core_path": "DETECT",
+      "core_name": "Arcade (FB Alpha 2012)",
+      "crc32": "MAME.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/MAME/dbz2.zip",
+      "label": "七龙珠Z2",
+      "core_path": "DETECT",
+      "core_name": "Arcade (FB Alpha 2012)",
+      "crc32": "MAME.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/MAME/silkworm.zip",
+      "label": "中东战争",
+      "core_path": "DETECT",
+      "core_name": "MAME 2000 (0.37b5)",
+      "crc32": "MAME.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/MAME/chukatai.zip",
+      "label": "中华大仙",
+      "core_path": "DETECT",
+      "core_name": "Arcade (FB Alpha 2012)",
+      "crc32": "MAME.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/MAME/vendettaj.zip",
+      "label": "九反威龙2",
+      "core_path": "DETECT",
+      "core_name": "FB Alpha 2012",
+      "crc32": "MAME.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/MAME/blswhstl.zip",
+      "label": "出发兵蜂",
+      "core_path": "DETECT",
+      "core_name": "Arcade (FB Alpha 2012)",
+      "crc32": "MAME.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/MAME/bmaster.zip",
+      "label": "刀锋领主",
+      "core_path": "DETECT",
+      "core_name": "Arcade (FB Alpha 2012)",
+      "crc32": "MAME.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/MAME/kengo.zip",
+      "label": "剑豪",
+      "core_path": "DETECT",
+      "core_name": "Arcade (FB Alpha 2012)",
+      "crc32": "MAME.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/MAME/yiear.zip",
+      "label": "功夫",
+      "core_path": "DETECT",
+      "core_name": "Arcade (FB Alpha 2012)",
+      "crc32": "MAME.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/MAME/Prehisle.zip",
+      "label": "原始岛",
+      "core_path": "DETECT",
+      "core_name": "MAME 2000 (0.37b5)",
+      "crc32": "MAME.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/MAME/ddragon.zip",
+      "label": "双截龙1",
+      "core_path": "DETECT",
+      "core_name": "MAME 2000 (0.37b5)",
+      "crc32": "MAME.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/MAME/ddragon2.zip",
+      "label": "双截龙2",
+      "core_path": "DETECT",
+      "core_name": "MAME 2000 (0.37b5)",
+      "crc32": "MAME.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/MAME/ddragon3.zip",
+      "label": "双截龙3",
+      "core_path": "DETECT",
+      "core_name": "Arcade (FB Alpha 2012)",
+      "crc32": "MAME.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/MAME/metamrpha.zip",
+      "label": "变形战士",
+      "core_path": "DETECT",
+      "core_name": "Arcade (FB Alpha 2012)",
+      "crc32": "MAME.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/MAME/shadfrce.zip",
+      "label": "变身忍者",
+      "core_path": "DETECT",
+      "core_name": "Arcade (FB Alpha 2012)",
+      "crc32": "MAME.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/MAME/gwarj.zip",
+      "label": "古巴战士",
+      "core_path": "DETECT",
+      "core_name": "MAME 2000 (0.37b5)",
+      "crc32": "MAME.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/MAME/tumblep.zip",
+      "label": "吸尘器",
+      "core_path": "DETECT",
+      "core_name": "Arcade (FB Alpha 2012)",
+      "crc32": "MAME.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/MAME/bonzeadv.zip",
+      "label": "地狱小和尚",
+      "core_path": "DETECT",
+      "core_name": "Arcade (FB Alpha 2012)",
+      "crc32": "MAME.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/MAME/hharry.zip",
+      "label": "大力工头",
+      "core_path": "DETECT",
+      "core_name": "MAME 2000 (0.37b5)",
+      "crc32": "MAME.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/MAME/fantasia.zip",
+      "label": "天蝉变",
+      "core_path": "DETECT",
+      "core_name": "Arcade (FB Alpha 2012)",
+      "crc32": "MAME.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/MAME/gradius.zip",
+      "label": "宇宙巡航机1",
+      "core_path": "DETECT",
+      "core_name": "Arcade (FB Alpha 2012)",
+      "crc32": "MAME.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/MAME/gradius2.zip",
+      "label": "宇宙巡航机2",
+      "core_path": "DETECT",
+      "core_name": "Arcade (FB Alpha 2012)",
+      "crc32": "MAME.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/MAME/gradius3.zip",
+      "label": "宇宙巡航机3",
+      "core_path": "DETECT",
+      "core_name": "Arcade (FB Alpha 2012)",
+      "crc32": "MAME.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/MAME/bionicc.zip",
+      "label": "希特勒复活",
+      "core_path": "DETECT",
+      "core_name": "Arcade (FB Alpha 2012)",
+      "crc32": "MAME.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/MAME/aliens.zip",
+      "label": "异形魂斗罗",
+      "core_path": "DETECT",
+      "core_name": "Arcade (FB Alpha 2012)",
+      "crc32": "MAME.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/MAME/lkage.zip",
+      "label": "影子传说",
+      "core_path": "DETECT",
+      "core_name": "Arcade (FB Alpha 2012)",
+      "crc32": "MAME.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/MAME/gaia.zip",
+      "label": "征战者",
+      "core_path": "DETECT",
+      "core_name": "FB Alpha 2012",
+      "crc32": "MAME.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/MAME/bishi.zip",
+      "label": "徐徐大作战",
+      "core_path": "DETECT",
+      "core_name": "Arcade (FB Alpha 2012)",
+      "crc32": "MAME.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/MAME/nbbatman.zip",
+      "label": "忍者棒球",
+      "core_path": "DETECT",
+      "core_name": "Arcade (FB Alpha 2012)",
+      "crc32": "MAME.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/MAME/TMNT.ZIP",
+      "label": "忍者神龟1",
+      "core_path": "DETECT",
+      "core_name": "MAME 2000 (0.37b5)",
+      "crc32": "MAME.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/MAME/TMNT2.ZIP",
+      "label": "忍者神龟2",
+      "core_path": "DETECT",
+      "core_name": "MAME 2000 (0.37b5)",
+      "crc32": "MAME.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/MAME/btoads.zip",
+      "label": "忍者蛙",
+      "core_path": "DETECT",
+      "core_name": "Arcade (FB Alpha 2012)",
+      "crc32": "MAME.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/MAME/mystwarrj.zip",
+      "label": "怒之忍者",
+      "core_path": "DETECT",
+      "core_name": "Arcade (FB Alpha 2012)",
+      "crc32": "MAME.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/MAME/ddonpach.zip",
+      "label": "怒首领蜂",
+      "core_path": "DETECT",
+      "core_name": "FB Alpha 2012",
+      "crc32": "MAME.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/MAME/kungfum.zip",
+      "label": "成龙踢馆1",
+      "core_path": "DETECT",
+      "core_name": "Arcade (FB Alpha 2012)",
+      "crc32": "MAME.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/MAME/vigilant.zip",
+      "label": "成龙踢馆2",
+      "core_path": "DETECT",
+      "core_name": "Arcade (FB Alpha 2012)",
+      "crc32": "MAME.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/MAME/sngkace.zip",
+      "label": "战国之刃",
+      "core_path": "DETECT",
+      "core_name": "Arcade (FB Alpha 2012)",
+      "crc32": "MAME.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/MAME/cninja.zip",
+      "label": "战斗原始人",
+      "core_path": "DETECT",
+      "core_name": "MAME 2000 (0.37b5)",
+      "crc32": "MAME.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/MAME/goldnaxe.zip",
+      "label": "战斧1",
+      "core_path": "DETECT",
+      "core_name": "Arcade (FB Alpha 2012)",
+      "crc32": "MAME.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/MAME/ga2j.zip",
+      "label": "战斧2",
+      "core_path": "DETECT",
+      "core_name": "Arcade (FB Alpha 2012)",
+      "crc32": "MAME.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/MAME/gunforce.zip",
+      "label": "战火惊魂1",
+      "core_path": "DETECT",
+      "core_name": "Arcade (FB Alpha 2012)",
+      "crc32": "MAME.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/MAME/gunforc2.zip",
+      "label": "战火惊魂2",
+      "core_path": "DETECT",
+      "core_name": "Arcade (FB Alpha 2012)",
+      "crc32": "MAME.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/MAME/gemini.zip",
+      "label": "捉虫敢死队",
+      "core_path": "DETECT",
+      "core_name": "Arcade (FB Alpha 2012)",
+      "crc32": "MAME.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/MAME/karatblz.zip",
+      "label": "斗神光辉",
+      "core_path": "DETECT",
+      "core_name": "Arcade (FB Alpha 2012)",
+      "crc32": "MAME.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/MAME/viostorm.zip",
+      "label": "暴力风暴",
+      "core_path": "DETECT",
+      "core_name": "Arcade (FB Alpha 2012)",
+      "crc32": "MAME.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/MAME/vfive.zip",
+      "label": "暴风战机",
+      "core_path": "DETECT",
+      "core_name": "FB Alpha 2012",
+      "crc32": "MAME.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/MAME/nspirit.zip",
+      "label": "最后忍道",
+      "core_path": "DETECT",
+      "core_name": "Arcade (FB Alpha 2012)",
+      "crc32": "MAME.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/MAME/growl.zip",
+      "label": "森林保护神",
+      "core_path": "DETECT",
+      "core_name": "Arcade (FB Alpha 2012)",
+      "crc32": "MAME.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/MAME/gunbird.zip",
+      "label": "武装飞鸟",
+      "core_path": "DETECT",
+      "core_name": "FB Alpha 2012",
+      "crc32": "MAME.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/MAME/quizchql.zip",
+      "label": "民国教育委员会",
+      "core_path": "DETECT",
+      "core_name": "Arcade (FB Alpha 2012)",
+      "crc32": "MAME.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/MAME/silentd.zip",
+      "label": "沉默之龙",
+      "core_path": "DETECT",
+      "core_name": "Arcade (FB Alpha 2012)",
+      "crc32": "MAME.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/MAME/inthunt.zip",
+      "label": "海底大战争",
+      "core_path": "DETECT",
+      "core_name": "Arcade (FB Alpha 2012)",
+      "crc32": "MAME.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/MAME/tndrcadej.zip",
+      "label": "特殊战队UAG",
+      "core_path": "DETECT",
+      "core_name": "Arcade (FB Alpha 2012)",
+      "crc32": "MAME.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/MAME/guwange.zip",
+      "label": "狱门山物语",
+      "core_path": "DETECT",
+      "core_name": "Arcade (FB Alpha 2012)",
+      "crc32": "MAME.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/MAME/denjinmk.zip",
+      "label": "电精1",
+      "core_path": "DETECT",
+      "core_name": "MAME 2003 Plus",
+      "crc32": "MAME.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/MAME/grdians.zip",
+      "label": "电精2",
+      "core_path": "DETECT",
+      "core_name": "FB Alpha 2012",
+      "crc32": "MAME.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/MAME/batsugun.zip",
+      "label": "疯狂抢手",
+      "core_path": "DETECT",
+      "core_name": "FB Alpha 2012",
+      "crc32": "MAME.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/MAME/agallet.zip",
+      "label": "石破天惊",
+      "core_path": "DETECT",
+      "core_name": "FB Alpha 2012",
+      "crc32": "MAME.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/MAME/buckyjaa.zip",
+      "label": "神勇小白兔",
+      "core_path": "DETECT",
+      "core_name": "Arcade (FB Alpha 2012)",
+      "crc32": "MAME.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/MAME/uccops.zip",
+      "label": "秘密警察",
+      "core_path": "DETECT",
+      "core_name": "Arcade (FB Alpha 2012)",
+      "crc32": "MAME.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/MAME/charlien.zip",
+      "label": "糊涂忍者",
+      "core_path": "DETECT",
+      "core_name": "FB Alpha 2012",
+      "crc32": "MAME.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/MAME/mia.zip",
+      "label": "\u7EFF色兵团",
+      "core_path": "DETECT",
+      "core_name": "Arcade (FB Alpha 2012)",
+      "crc32": "MAME.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/MAME/sailormn.zip",
+      "label": "美少女战士",
+      "core_path": "DETECT",
+      "core_name": "FB Alpha 2012",
+      "crc32": "MAME.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/MAME/pow.zip",
+      "label": "脱狱",
+      "core_path": "DETECT",
+      "core_name": "MAME 2000 (0.37b5)",
+      "crc32": "MAME.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/MAME/gunsmokeua.zip",
+      "label": "荒野大镖客",
+      "core_path": "DETECT",
+      "core_name": "Arcade (FB Alpha 2012)",
+      "crc32": "MAME.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/MAME/batriderhk.zip",
+      "label": "蝙蝠骑警",
+      "core_path": "DETECT",
+      "core_name": "Arcade (FB Alpha 2012)",
+      "crc32": "MAME.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/MAME/tturf.zip",
+      "label": "街头格斗",
+      "core_path": "DETECT",
+      "core_name": "MAME 2000 (0.37b5)",
+      "crc32": "MAME.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/MAME/sf.zip",
+      "label": "街头霸王1",
+      "core_path": "DETECT",
+      "core_name": "Arcade (FB Alpha 2012)",
+      "crc32": "MAME.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/MAME/ssf2.zip",
+      "label": "街头霸王2",
+      "core_path": "DETECT",
+      "core_name": "FB Alpha 2012 CPS-2",
+      "crc32": "MAME.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/MAME/sfiii3.zip",
+      "label": "街头霸王3",
+      "core_path": "DETECT",
+      "core_name": "FB Alpha 2012 ",
+      "crc32": "MAME.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/MAME/ssriders.zip",
+      "label": "西部牛仔",
+      "core_path": "DETECT",
+      "core_name": "Arcade (FB Alpha 2012)",
+      "crc32": "MAME.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/MAME/powerins.zip",
+      "label": "豪血寺一族1",
+      "core_path": "DETECT",
+      "core_name": "FB Alpha 2012",
+      "crc32": "MAME.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/MAME/plegends.zip",
+      "label": "豪血寺一族2",
+      "core_path": "DETECT",
+      "core_name": "FB Alpha 2012",
+      "crc32": "MAME.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/MAME/jackal.zip",
+      "label": "赤色要塞",
+      "core_path": "DETECT",
+      "core_name": "Arcade (FB Alpha 2012)",
+      "crc32": "MAME.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/MAME/turbofrcu.zip",
+      "label": "超级火力",
+      "core_path": "DETECT",
+      "core_name": "Arcade (FB Alpha 2012)",
+      "crc32": "MAME.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/MAME/nam1975.zip",
+      "label": "越战1975",
+      "core_path": "DETECT",
+      "core_name": "Arcade (FB Alpha 2012)",
+      "crc32": "MAME.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/MAME/hardhea2.zip",
+      "label": "铁头小子2",
+      "core_path": "DETECT",
+      "core_name": "Arcade (FB Alpha 2012)",
+      "crc32": "MAME.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/MAME/hook.zip",
+      "label": "铁钩船长",
+      "core_path": "DETECT",
+      "core_name": "Arcade (FB Alpha 2012)",
+      "crc32": "MAME.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/MAME/silvmil.zip",
+      "label": "银色千年",
+      "core_path": "DETECT",
+      "core_name": "Arcade (FB Alpha 2012)",
+      "crc32": "MAME.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/MAME/esprade.zip",
+      "label": "长空超少年",
+      "core_path": "DETECT",
+      "core_name": "FB Alpha 2012",
+      "crc32": "MAME.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/MAME/metmqstr.zip",
+      "label": "隐忍",
+      "core_path": "DETECT",
+      "core_name": "FB Alpha 2012",
+      "crc32": "MAME.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/MAME/snowbro3.zip",
+      "label": "雪人兄弟3",
+      "core_path": "DETECT",
+      "core_name": "Arcade (FB Alpha 2012)",
+      "crc32": "MAME.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/MAME/zeroteam.zip",
+      "label": "零组特攻队",
+      "core_path": "DETECT",
+      "core_name": "Arcade (FB Alpha 2012)",
+      "crc32": "MAME.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/MAME/dogyuun.zip",
+      "label": "雷射战机",
+      "core_path": "DETECT",
+      "core_name": "FB Alpha ",
+      "crc32": "MAME.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/MAME/raiden.zip",
+      "label": "雷电",
+      "core_path": "DETECT",
+      "core_name": "Arcade (FB Alpha 2012)",
+      "crc32": "MAME.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/MAME/gigawing.zip",
+      "label": "雷鸟之翼",
+      "core_path": "DETECT",
+      "core_name": "Arcade (FB Alpha 2012)",
+      "crc32": "MAME.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/MAME/tdragonb.zip",
+      "label": "雷龙1",
+      "core_path": "DETECT",
+      "core_name": "Arcade (FB Alpha 2012)",
+      "crc32": "MAME.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/MAME/tdragon2.zip",
+      "label": "雷龙2",
+      "core_path": "DETECT",
+      "core_name": "FB Alpha 2012",
+      "crc32": "MAME.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/MAME/devstors.zip",
+      "label": "饿流祸",
+      "core_path": "DETECT",
+      "core_name": "Arcade (FB Alpha 2012)",
+      "crc32": "MAME.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/MAME/asterix.zip",
+      "label": "高卢奇兵",
+      "core_path": "DETECT",
+      "core_name": "Arcade (FB Alpha 2012)",
+      "crc32": "MAME.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/MAME/Contra.zip",
+      "label": "魂斗罗1",
+      "core_path": "DETECT",
+      "core_name": "MAME 2000 (0.37b5)",
+      "crc32": "MAME.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/MAME/Scontra.zip",
+      "label": "魂斗罗2",
+      "core_path": "DETECT",
+      "core_name": "MAME 2000 (0.37b5)",
+      "crc32": "MAME.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/MAME/osman.zip",
+      "label": "麒麟战警",
+      "core_path": "DETECT",
+      "core_name": "FB Alpha 2012",
+      "crc32": "MAME.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/MAME/baddudes.zip",
+      "label": "龙之忍者",
+      "core_path": "DETECT",
+      "core_name": "Arcade (FB Alpha 2012)",
+      "crc32": "MAME.lpl",
+      "db_name": ""
+    }
+  ]
+}

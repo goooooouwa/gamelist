@@ -1,0 +1,611 @@
+{
+  "version": "1.4",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "sort_mode": 0,
+  "items": [
+    {
+      "path": "/roms/CPS/1941.zip",
+      "label": "1941",
+      "core_path": "DETECT",
+      "core_name": "FB Alpha 2012",
+      "crc32": "CPS.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/CPS/1944.zip",
+      "label": "1944 循环的征服者",
+      "core_path": "DETECT",
+      "core_name": "FB Alpha 2012",
+      "crc32": "CPS.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/CPS/19xx.zip",
+      "label": "19XX 命运否决战",
+      "core_path": "DETECT",
+      "core_name": "FB Alpha 2012",
+      "crc32": "CPS.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/CPS/3wonders.zip",
+      "label": "三个奇迹",
+      "core_path": "DETECT",
+      "core_name": "FB Alpha 2012",
+      "crc32": "CPS.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/CPS/jojo.zip",
+      "label": "乔乔的奇妙冒险",
+      "core_path": "DETECT",
+      "core_name": "FB Alpha 2012",
+      "crc32": "CPS.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/CPS/jojoba.zip",
+      "label": "乔乔的奇妙冒险 未来遗产",
+      "core_path": "DETECT",
+      "core_name": "FB Alpha 2012",
+      "crc32": "CPS.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/CPS/strider.zip",
+      "label": "出击飞龙",
+      "core_path": "DETECT",
+      "core_name": "FB Alpha 2012",
+      "crc32": "CPS.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/CPS/cworld2j.zip",
+      "label": "卡普空世界2",
+      "core_path": "DETECT",
+      "core_name": "FB Alpha 2012",
+      "crc32": "CPS.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/CPS/csclub.zip",
+      "label": "卡普空运动俱乐部",
+      "core_path": "DETECT",
+      "core_name": "FB Alpha 2012",
+      "crc32": "CPS.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/CPS/mtwins.zip",
+      "label": "双麒儿",
+      "core_path": "DETECT",
+      "core_name": "FB Alpha 2012",
+      "crc32": "CPS.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/CPS/captcomm.zip",
+      "label": "名将",
+      "core_path": "DETECT",
+      "core_name": "FB Alpha 2012",
+      "crc32": "CPS.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/CPS/dynwarj.zip",
+      "label": "吞食天地1 王朝战争",
+      "core_path": "DETECT",
+      "core_name": "Arcade (FB Alpha 2012)",
+      "crc32": "CPS.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/CPS/wofa.zip",
+      "label": "吞食天地2 赤壁之战",
+      "core_path": "DETECT",
+      "core_name": "Arcade (FB Alpha 2012)",
+      "crc32": "CPS.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/CPS/knights.zip",
+      "label": "圆桌骑士",
+      "core_path": "DETECT",
+      "core_name": "FB Alpha 2012",
+      "crc32": "CPS.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/CPS/ghouls.zip",
+      "label": "大魔界村",
+      "core_path": "DETECT",
+      "core_name": "FB Alpha 2012",
+      "crc32": "CPS.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/CPS/forgottn.zip",
+      "label": "失落的世界",
+      "core_path": "DETECT",
+      "core_name": "FB Alpha 2012",
+      "crc32": "CPS.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/CPS/willow.zip",
+      "label": "威洛之旅",
+      "core_path": "DETECT",
+      "core_name": "FB Alpha 2012",
+      "crc32": "CPS.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/CPS/varth.zip",
+      "label": "威虎战机",
+      "core_path": "DETECT",
+      "core_name": "FB Alpha 2012",
+      "crc32": "CPS.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/CPS/sfa.zip",
+      "label": "少年街霸1",
+      "core_path": "DETECT",
+      "core_name": "FB Alpha 2012",
+      "crc32": "CPS.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/CPS/sfa2.zip",
+      "label": "少年街霸2",
+      "core_path": "DETECT",
+      "core_name": "FB Alpha 2012",
+      "crc32": "CPS.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/CPS/sfa3.zip",
+      "label": "少年街霸3",
+      "core_path": "DETECT",
+      "core_name": "FB Alpha 2012",
+      "crc32": "CPS.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/CPS/avsp.zip",
+      "label": "异形对铁血战士",
+      "core_path": "DETECT",
+      "core_name": "FB Alpha 2012",
+      "crc32": "CPS.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/CPS/ffight.zip",
+      "label": "快打旋风",
+      "core_path": "DETECT",
+      "core_name": "FB Alpha 2012",
+      "crc32": "CPS.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/CPS/dino.zip",
+      "label": "恐龙新世纪",
+      "core_path": "DETECT",
+      "core_name": "FB Alpha 2012",
+      "crc32": "CPS.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/CPS/dstlk.zip",
+      "label": "恶魔战士1 午夜斗士",
+      "core_path": "DETECT",
+      "core_name": "FB Alpha 2012",
+      "crc32": "CPS.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/CPS/nwarr.zip",
+      "label": "恶魔战士2 吸血鬼猎人-恶魔的复仇",
+      "core_path": "DETECT",
+      "core_name": "FB Alpha 2012",
+      "crc32": "CPS.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/CPS/vsav.zip",
+      "label": "恶魔战士3 恶魔救世主-吸血鬼之王",
+      "core_path": "DETECT",
+      "core_name": "FB Alpha 2012",
+      "crc32": "CPS.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/CPS/vhunt2.zip",
+      "label": "恶魔战士4 吸血鬼猎人2恶魔的复仇",
+      "core_path": "DETECT",
+      "core_name": "FB Alpha 2012",
+      "crc32": "CPS.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/CPS/vsav2.zip",
+      "label": "恶魔战士5 恶魔救世主2-吸血鬼之王",
+      "core_path": "DETECT",
+      "core_name": "FB Alpha 2012",
+      "crc32": "CPS.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/CPS/punisher.zip",
+      "label": "惩罚者",
+      "core_path": "DETECT",
+      "core_name": "FB Alpha 2012",
+      "crc32": "CPS.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/CPS/unsquad.zip",
+      "label": "战区88",
+      "core_path": "DETECT",
+      "core_name": "FB Alpha 2012",
+      "crc32": "CPS.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/CPS/mercs.zip",
+      "label": "战场之狼II",
+      "core_path": "DETECT",
+      "core_name": "FB Alpha 2012",
+      "crc32": "CPS.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/CPS/batcir.zip",
+      "label": "战斗回路",
+      "core_path": "DETECT",
+      "core_name": "FB Alpha 2012",
+      "crc32": "CPS.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/CPS/slammast.zip",
+      "label": "摔角霸王",
+      "core_path": "DETECT",
+      "core_name": "FB Alpha 2012",
+      "crc32": "CPS.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/CPS/mbombrd.zip",
+      "label": "摔角霸王 最终之战",
+      "core_path": "DETECT",
+      "core_name": "FB Alpha 2012",
+      "crc32": "CPS.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/CPS/pzloop2.zip",
+      "label": "智力循环2",
+      "core_path": "DETECT",
+      "core_name": "FB Alpha 2012",
+      "crc32": "CPS.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/CPS/nemo.zip",
+      "label": "梦幻冒险",
+      "core_path": "DETECT",
+      "core_name": "FB Alpha 2012",
+      "crc32": "CPS.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/CPS/megaman.zip",
+      "label": "洛克人1 力量之战",
+      "core_path": "DETECT",
+      "core_name": "FB Alpha 2012",
+      "crc32": "CPS.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/CPS/megaman2.zip",
+      "label": "洛克人2 强大的战士",
+      "core_path": "DETECT",
+      "core_name": "FB Alpha 2012",
+      "crc32": "CPS.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/CPS/mmatrix.zip",
+      "label": "火星矩阵 终极固体射击",
+      "core_path": "DETECT",
+      "core_name": "FB Alpha 2012",
+      "crc32": "CPS.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/CPS/ecofghtr.zip",
+      "label": "环保战士",
+      "core_path": "DETECT",
+      "core_name": "FB Alpha 2012",
+      "crc32": "CPS.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/CPS/sf2ce.zip",
+      "label": "街头霸王II 四大天王",
+      "core_path": "DETECT",
+      "core_name": "FB Alpha 2012",
+      "crc32": "CPS.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/CPS/sf2.zip",
+      "label": "街头霸王II 天下斗士",
+      "core_path": "DETECT",
+      "core_name": "FB Alpha 2012",
+      "crc32": "CPS.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/CPS/sf2hf.zip",
+      "label": "街头霸王II 超级战斗",
+      "core_path": "DETECT",
+      "core_name": "FB Alpha 2012",
+      "crc32": "CPS.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/CPS/sfiii3.zip",
+      "label": "街头霸王III 三度冲击-未来战斗",
+      "core_path": "DETECT",
+      "core_name": "Arcade (FB Alpha 2012)",
+      "crc32": "CPS.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/CPS/sfiii2.zip",
+      "label": "街头霸王III 二度冲击-巨型攻击",
+      "core_path": "DETECT",
+      "core_name": "FB Alpha 2012",
+      "crc32": "CPS.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/CPS/sfiii.zip",
+      "label": "街头霸王III 新世代",
+      "core_path": "DETECT",
+      "core_name": "FB Alpha 2012",
+      "crc32": "CPS.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/CPS/cybots.zip",
+      "label": "装甲之战 全金属狂潮",
+      "core_path": "DETECT",
+      "core_name": "FB Alpha 2012",
+      "crc32": "CPS.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/CPS/armwar.zip",
+      "label": "装甲战士",
+      "core_path": "DETECT",
+      "core_name": "FB Alpha 2012",
+      "crc32": "CPS.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/CPS/redearth.zip",
+      "label": "赤色大地",
+      "core_path": "DETECT",
+      "core_name": "FB Alpha 2012",
+      "crc32": "CPS.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/CPS/mpang.zip",
+      "label": "超强魔法泡泡",
+      "core_path": "DETECT",
+      "core_name": "FB Alpha 2012",
+      "crc32": "CPS.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/CPS/sgemf.zip",
+      "label": "超级口袋战士 迷你混战",
+      "core_path": "DETECT",
+      "core_name": "FB Alpha 2012",
+      "crc32": "CPS.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/CPS/ringdest.zip",
+      "label": "超级摔角霸王II 连环爆裂",
+      "core_path": "DETECT",
+      "core_name": "FB Alpha 2012",
+      "crc32": "CPS.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/CPS/spf2t.zip",
+      "label": "超级方块战士II 加速版",
+      "core_path": "DETECT",
+      "core_name": "FB Alpha 2012",
+      "crc32": "CPS.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/CPS/msh.zip",
+      "label": "超级漫画英雄",
+      "core_path": "DETECT",
+      "core_name": "FB Alpha 2012",
+      "crc32": "CPS.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/CPS/mvsc.zip",
+      "label": "超级漫画英雄对卡普空 超级英雄的碰撞",
+      "core_path": "DETECT",
+      "core_name": "FB Alpha 2012",
+      "crc32": "CPS.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/CPS/mshvsf.zip",
+      "label": "超级漫画英雄对街头霸王",
+      "core_path": "DETECT",
+      "core_name": "FB Alpha 2012",
+      "crc32": "CPS.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/CPS/ssf2t.zip",
+      "label": "超级街头霸王II 加强版",
+      "core_path": "DETECT",
+      "core_name": "FB Alpha 2012",
+      "crc32": "CPS.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/CPS/ssf2.zip",
+      "label": "超级街头霸王II 新的挑战者",
+      "core_path": "DETECT",
+      "core_name": "FB Alpha 2012",
+      "crc32": "CPS.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/CPS/hsf2.zip",
+      "label": "超级街头霸王II 终极版",
+      "core_path": "DETECT",
+      "core_name": "FB Alpha 2012",
+      "crc32": "CPS.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/CPS/dimahoo.zip",
+      "label": "超级魔法大作战",
+      "core_path": "DETECT",
+      "core_name": "FB Alpha 2012",
+      "crc32": "CPS.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/CPS/xmcota.zip",
+      "label": "超能战警 磁场原子人",
+      "core_path": "DETECT",
+      "core_name": "FB Alpha 2012",
+      "crc32": "CPS.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/CPS/xmvsf.zip",
+      "label": "超能战警对街头霸王",
+      "core_path": "DETECT",
+      "core_name": "FB Alpha 2012",
+      "crc32": "CPS.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/CPS/progear.zip",
+      "label": "逆转之岚",
+      "core_path": "DETECT",
+      "core_name": "FB Alpha 2012",
+      "crc32": "CPS.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/CPS/qtono2.zip",
+      "label": "问答殿样之野望2 全国版",
+      "core_path": "DETECT",
+      "core_name": "FB Alpha 2012",
+      "crc32": "CPS.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/CPS/jyangoku.zip",
+      "label": "雀国志 霸王的采牌",
+      "core_path": "DETECT",
+      "core_name": "Arcade (FB Alpha 2012)",
+      "crc32": "CPS.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/CPS/cawing.zip",
+      "label": "雌虎战机",
+      "core_path": "DETECT",
+      "core_name": "FB Alpha 2012",
+      "crc32": "CPS.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/CPS/gigawing.zip",
+      "label": "雷鸟之翼",
+      "core_path": "DETECT",
+      "core_name": "FB Alpha 2012",
+      "crc32": "CPS.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/CPS/msword.zip",
+      "label": "魔法之剑 英雄的幻想",
+      "core_path": "DETECT",
+      "core_name": "FB Alpha 2012",
+      "crc32": "CPS.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/CPS/pnickj.zip",
+      "label": "魔法方块",
+      "core_path": "DETECT",
+      "core_name": "FB Alpha 2012",
+      "crc32": "CPS.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/CPS/pang3.zip",
+      "label": "魔法气泡3",
+      "core_path": "DETECT",
+      "core_name": "FB Alpha 2012",
+      "crc32": "CPS.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/CPS/ddsom.zip",
+      "label": "龙与地下城 暗黑秘影",
+      "core_path": "DETECT",
+      "core_name": "FB Alpha 2012",
+      "crc32": "CPS.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/CPS/ddtod.zip",
+      "label": "龙与地下城 毁灭之塔",
+      "core_path": "DETECT",
+      "core_name": "FB Alpha 2012",
+      "crc32": "CPS.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/CPS/qad.zip",
+      "label": "龙之迷题",
+      "core_path": "DETECT",
+      "core_name": "FB Alpha 2012",
+      "crc32": "CPS.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/CPS/kod.zip",
+      "label": "龙王",
+      "core_path": "DETECT",
+      "core_name": "FB Alpha 2012",
+      "crc32": "CPS.lpl",
+      "db_name": ""
+    }
+  ]
+}

@@ -1,0 +1,571 @@
+{
+  "version": "1.4",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "sort_mode": 0,
+  "items": [
+    {
+      "path": "/roms/NEOGEO/zedblade.zip",
+      "label": "作战名末日",
+      "core_path": "DETECT",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "NEOGEO.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/NEOGEO/samsho.zip",
+      "label": "侍魂1 十二剑客录",
+      "core_path": "DETECT",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "NEOGEO.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/NEOGEO/samsho2.zip",
+      "label": "侍魂2 霸王丸地狱变",
+      "core_path": "DETECT",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "NEOGEO.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/NEOGEO/samsho3.zip",
+      "label": "侍魂3 斩红郎无双剑",
+      "core_path": "DETECT",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "NEOGEO.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/NEOGEO/samsho4.zip",
+      "label": "侍魂4 天草降临",
+      "core_path": "DETECT",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "NEOGEO.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/NEOGEO/samsho5.zip",
+      "label": "侍魂5",
+      "core_path": "DETECT",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "NEOGEO.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/NEOGEO/nitd.zip",
+      "label": "午夜噩梦",
+      "core_path": "DETECT",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "NEOGEO.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/NEOGEO/preisle2.zip",
+      "label": "原始岛2",
+      "core_path": "DETECT",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "NEOGEO.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/NEOGEO/doubledr.zip",
+      "label": "双截龙",
+      "core_path": "DETECT",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "NEOGEO.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/NEOGEO/mslug.zip",
+      "label": "合金弹头1",
+      "core_path": "DETECT",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "NEOGEO.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/NEOGEO/mslug2.zip",
+      "label": "合金弹头2",
+      "core_path": "DETECT",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "NEOGEO.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/NEOGEO/mslug3.zip",
+      "label": "合金弹头3",
+      "core_path": "DETECT",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "NEOGEO.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/NEOGEO/mslug4.zip",
+      "label": "合金弹头4",
+      "core_path": "DETECT",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "NEOGEO.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/NEOGEO/mslug5.zip",
+      "label": "合金弹头5",
+      "core_path": "DETECT",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "NEOGEO.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/NEOGEO/mslugx.zip",
+      "label": "合金弹头X",
+      "core_path": "DETECT",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "NEOGEO.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/NEOGEO/mutnat.zip",
+      "label": "外星游龙",
+      "core_path": "DETECT",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "NEOGEO.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/NEOGEO/kabukikl.zip",
+      "label": "天外魔境真传",
+      "core_path": "DETECT",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "NEOGEO.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/NEOGEO/spinmast.zip",
+      "label": "强尼大冒险",
+      "core_path": "DETECT",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "NEOGEO.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/NEOGEO/ncommand.zip",
+      "label": "忍者指令",
+      "core_path": "DETECT",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "NEOGEO.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/NEOGEO/sengoku.zip",
+      "label": "战国传承1",
+      "core_path": "DETECT",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "NEOGEO.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/NEOGEO/sengoku2.zip",
+      "label": "战国传承2",
+      "core_path": "DETECT",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "NEOGEO.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/NEOGEO/sengoku3.zip",
+      "label": "战国传承3",
+      "core_path": "DETECT",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "NEOGEO.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/NEOGEO/s1945p.zip",
+      "label": "打击者1945",
+      "core_path": "DETECT",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "NEOGEO.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/NEOGEO/kof2000.zip",
+      "label": "拳皇2000",
+      "core_path": "DETECT",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "NEOGEO.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/NEOGEO/kof2001.zip",
+      "label": "拳皇2001",
+      "core_path": "DETECT",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "NEOGEO.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/NEOGEO/kof2002.zip",
+      "label": "拳皇2002",
+      "core_path": "DETECT",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "NEOGEO.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/NEOGEO/kof2003.zip",
+      "label": "拳皇2003",
+      "core_path": "DETECT",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "NEOGEO.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/NEOGEO/kof2k4se.zip",
+      "label": "拳皇2004",
+      "core_path": "DETECT",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "NEOGEO.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/NEOGEO/kof94.zip",
+      "label": "拳皇94",
+      "core_path": "DETECT",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "NEOGEO.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/NEOGEO/kof95.zip",
+      "label": "拳皇95",
+      "core_path": "DETECT",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "NEOGEO.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/NEOGEO/kof96.zip",
+      "label": "拳皇96",
+      "core_path": "DETECT",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "NEOGEO.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/NEOGEO/kof97.zip",
+      "label": "拳皇97",
+      "core_path": "DETECT",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "NEOGEO.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/NEOGEO/kof98.zip",
+      "label": "拳皇98",
+      "core_path": "DETECT",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "NEOGEO.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/NEOGEO/kof99.zip",
+      "label": "拳皇99",
+      "core_path": "DETECT",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "NEOGEO.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/NEOGEO/svc.zip",
+      "label": "拳皇VS街霸 乱舞千年",
+      "core_path": "DETECT",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "NEOGEO.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/NEOGEO/kof10th.zip",
+      "label": "拳皇十周年纪念版",
+      "core_path": "DETECT",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "NEOGEO.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/NEOGEO/shocktro.zip",
+      "label": "敌后奇兵1",
+      "core_path": "DETECT",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "NEOGEO.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/NEOGEO/shocktr2.zip",
+      "label": "敌后奇兵2",
+      "core_path": "DETECT",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "NEOGEO.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/NEOGEO/lastblad.zip",
+      "label": "月华剑士1",
+      "core_path": "DETECT",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "NEOGEO.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/NEOGEO/lastbld2.zip",
+      "label": "月华剑士2",
+      "core_path": "DETECT",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "NEOGEO.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/NEOGEO/roboarmy.zip",
+      "label": "机甲部队",
+      "core_path": "DETECT",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "NEOGEO.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/NEOGEO/twinspri.zip",
+      "label": "梦幻小妖精",
+      "core_path": "DETECT",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "NEOGEO.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/NEOGEO/ganryu.zip",
+      "label": "武藏严流记",
+      "core_path": "DETECT",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "NEOGEO.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/NEOGEO/pbobbl2n.zip",
+      "label": "泡泡龙2",
+      "core_path": "DETECT",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "NEOGEO.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/NEOGEO/pnyaa.zip",
+      "label": "波奇和娜亚",
+      "core_path": "DETECT",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "NEOGEO.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/NEOGEO/wakuwak7.zip",
+      "label": "火热火热7",
+      "core_path": "DETECT",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "NEOGEO.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/NEOGEO/neobombe.zip",
+      "label": "炸弹人",
+      "core_path": "DETECT",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "NEOGEO.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/NEOGEO/burningf.zip",
+      "label": "热血快打",
+      "core_path": "DETECT",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "NEOGEO.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/NEOGEO/breakers.zip",
+      "label": "爆裂者",
+      "core_path": "DETECT",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "NEOGEO.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/NEOGEO/breakrev.zip",
+      "label": "爆裂者复仇",
+      "core_path": "DETECT",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "NEOGEO.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/NEOGEO/ctomaday.zip",
+      "label": "番茄超人",
+      "core_path": "DETECT",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "NEOGEO.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/NEOGEO/aodk.zip",
+      "label": "痛快进行曲",
+      "core_path": "DETECT",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "NEOGEO.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/NEOGEO/bangbead.zip",
+      "label": "碰碰球",
+      "core_path": "DETECT",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "NEOGEO.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/NEOGEO/lresort.zip",
+      "label": "终极任务",
+      "core_path": "DETECT",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "NEOGEO.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/NEOGEO/strhoop.zip",
+      "label": "街头篮球",
+      "core_path": "DETECT",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "NEOGEO.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/NEOGEO/matrim.zip",
+      "label": "豪血寺一族 斗婚",
+      "core_path": "DETECT",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "NEOGEO.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/NEOGEO/blazstar.zip",
+      "label": "闪亮之星",
+      "core_path": "DETECT",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "NEOGEO.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/NEOGEO/ninjamas.zip",
+      "label": "霸王忍法贴",
+      "core_path": "DETECT",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "NEOGEO.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/NEOGEO/tophuntr.zip",
+      "label": "顶级猎手",
+      "core_path": "DETECT",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "NEOGEO.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/NEOGEO/kizuna.zip",
+      "label": "风云默示录1",
+      "core_path": "DETECT",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "NEOGEO.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/NEOGEO/savagere.zip",
+      "label": "风云默示录2",
+      "core_path": "DETECT",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "NEOGEO.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/NEOGEO/rbffspec.zip",
+      "label": "饿狼传说 特别版",
+      "core_path": "DETECT",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "NEOGEO.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/NEOGEO/garou.zip",
+      "label": "饿狼传说 狼之印记",
+      "core_path": "DETECT",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "NEOGEO.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/NEOGEO/rbff1.zip",
+      "label": "饿狼传说1",
+      "core_path": "DETECT",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "NEOGEO.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/NEOGEO/rbff2.zip",
+      "label": "饿狼传说2 新的来者",
+      "core_path": "DETECT",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "NEOGEO.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/NEOGEO/fatfury3.zip",
+      "label": "饿狼传说3 远古征战",
+      "core_path": "DETECT",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "NEOGEO.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/NEOGEO/rotd.zip",
+      "label": "龙吼 双截龙",
+      "core_path": "DETECT",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "NEOGEO.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/NEOGEO/aof.zip",
+      "label": "龙虎之拳1",
+      "core_path": "DETECT",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "NEOGEO.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/NEOGEO/aof2.zip",
+      "label": "龙虎之拳2",
+      "core_path": "DETECT",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "NEOGEO.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/NEOGEO/aof3.zip",
+      "label": "龙虎之拳3",
+      "core_path": "DETECT",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "NEOGEO.lpl",
+      "db_name": ""
+    }
+  ]
+}

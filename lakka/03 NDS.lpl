@@ -1,0 +1,91 @@
+{
+  "version": "1.4",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "sort_mode": 0,
+  "items": [
+    {
+      "path": "/roms/NDS/Metal Slug 7.nds",
+      "label": "合金弹头7",
+      "core_path": "DETECT",
+      "core_name": "Nintendo - DS (DeSmuME)",
+      "crc32": "03 NDS.lpl",
+      "db_name": ""
+    },
+	{
+      "path": "/roms/NDS/New Super Mairo Bros.nds",
+      "label": "新超级马力欧兄弟",
+      "core_path": "DETECT",
+      "core_name": "Nintendo - DS (DeSmuME)",
+      "crc32": "03 NDS.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/NDS/Ghost Trick.nds",
+      "label": "幽灵诡计",
+      "core_path": "DETECT",
+      "core_name": "Nintendo - DS (DeSmuME)",
+      "crc32": "03 NDS.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/NDS/Castlevania Dawn of Sorrow.nds",
+      "label": "恶魔城 苍月的十字架",
+      "core_path": "DETECT",
+      "core_name": "Nintendo - DS (DeSmuME)",
+      "crc32": "03 NDS.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/NDS/Lost Blue.nds",
+      "label": "迷失蔚蓝",
+      "core_path": "DETECT",
+      "core_name": "Nintendo - DS (DeSmuME)",
+      "crc32": "03 NDS.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/NDS/Moon.nds",
+      "label": "月球",
+      "core_path": "DETECT",
+      "core_name": "Nintendo - DS (DeSmuME)",
+      "crc32": "03 NDS.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/NDS/Bio Hazard.nds",
+      "label": "生化危机 死寂",
+      "core_path": "DETECT",
+      "core_name": "Nintendo - DS (DeSmuME)",
+      "crc32": "03 NDS.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/NDS/RockMan ZX.nds",
+      "label": "洛克人 ZX",
+      "core_path": "DETECT",
+      "core_name": "Nintendo - DS (DeSmuME)",
+      "crc32": "03 NDS.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/NDS/Mario Kart.nds",
+      "label": "超级马力欧赛车",
+      "core_path": "DETECT",
+      "core_name": "Nintendo - DS (DeSmuME)",
+      "crc32": "03 NDS.lpl",
+      "db_name": ""
+    },
+    {
+      "path": "/roms/NDS/Contra4.nds",
+      "label": "魂斗罗4",
+      "core_path": "DETECT",
+      "core_name": "Nintendo - DS (DeSmuME)",
+      "crc32": "03 NDS.lpl",
+      "db_name": ""
+    }
+  ]
+}
