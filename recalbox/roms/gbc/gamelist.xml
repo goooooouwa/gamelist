@@ -1,0 +1,505 @@
+<?xml version="1.0"?>
+<gameList>
+	<game source="Recalbox" timestamp="0">
+		<path>超级马力欧1.gb</path>
+		<image>~/thumbnails/01 GB/Named_Snaps/超级马力欧1.png</image>
+		<name>超级马力欧1</name>
+	</game>
+	<game source="Recalbox" timestamp="0">
+		<path>超级马力欧2.gbc</path>
+		<image>~/thumbnails/01 GB/Named_Snaps/超级马力欧2.png</image>
+		<name>超级马力欧2</name>
+	</game>
+	<game source="Recalbox" timestamp="0">
+		<path>超级马力欧4.gb</path>
+		<image>~/thumbnails/01 GB/Named_Snaps/超级马力欧4.png</image>
+		<name>超级马力欧4</name>
+	</game>
+	<game source="Recalbox" timestamp="0">
+		<path>超级马力欧网球.gbc</path>
+		<image>~/thumbnails/01 GB/Named_Snaps/超级马力欧网球.png</image>
+		<name>超级马力欧网球</name>
+	</game>
+	<game source="Recalbox" timestamp="0">
+		<path>超级马力欧医生.gb</path>
+		<image>~/thumbnails/01 GB/Named_Snaps/超级马力欧医生.png</image>
+		<name>超级马力欧医生</name>
+	</game>
+	<game source="Recalbox" timestamp="0">
+		<path>超级马力欧Deluxe.gbc</path>
+		<image>~/thumbnails/01 GB/Named_Snaps/超级马力欧Deluxe.png</image>
+		<name>超级马力欧Deluxe</name>
+	</game>
+	<game source="Recalbox" timestamp="0">
+		<path>超级中国人.gb</path>
+		<image>~/thumbnails/01 GB/Named_Snaps/超级中国人.png</image>
+		<name>超级中国人</name>
+	</game>
+	<game source="Recalbox" timestamp="0">
+		<path>第1次超级机器人大战.gb</path>
+		<image>~/thumbnails/01 GB/Named_Snaps/第1次超级机器人大战.png</image>
+		<name>第1次超级机器人大战</name>
+	</game>
+	<game source="Recalbox" timestamp="0">
+		<path>第2次超级机器人大战.gb</path>
+		<image>~/thumbnails/01 GB/Named_Snaps/第2次超级机器人大战.png</image>
+		<name>第2次超级机器人大战</name>
+	</game>
+	<game source="Recalbox" timestamp="0">
+		<path>俄罗斯方块.gb</path>
+		<image>~/thumbnails/01 GB/Named_Snaps/俄罗斯方块.png</image>
+		<name>俄罗斯方块</name>
+	</game>
+	<game source="Recalbox" timestamp="0">
+		<path>飞龙之拳EX.gbc</path>
+		<image>~/thumbnails/01 GB/Named_Snaps/飞龙之拳EX.png</image>
+		<name>飞龙之拳EX</name>
+	</game>
+	<game source="Recalbox" timestamp="0">
+		<path>孤岛冒险者1.gbc</path>
+		<image>~/thumbnails/01 GB/Named_Snaps/孤岛冒险者1.png</image>
+		<name>孤岛冒险者1</name>
+	</game>
+	<game source="Recalbox" timestamp="0">
+		<path>孤岛冒险者2.gbc</path>
+		<image>~/thumbnails/01 GB/Named_Snaps/孤岛冒险者2.png</image>
+		<name>孤岛冒险者2</name>
+	</game>
+	<game source="Recalbox" timestamp="0">
+		<path>国际象棋.gbc</path>
+		<image>~/thumbnails/01 GB/Named_Snaps/国际象棋.png</image>
+		<name>国际象棋</name>
+	</game>
+	<game source="Recalbox" timestamp="0">
+		<path>合金弹头.gbc</path>
+		<image>~/thumbnails/01 GB/Named_Snaps/合金弹头.png</image>
+		<name>合金弹头</name>
+	</game>
+	<game source="Recalbox" timestamp="0">
+		<path>合金装备 幽灵通天塔.gbc</path>
+		<image>~/thumbnails/01 GB/Named_Snaps/合金装备 幽灵通天塔.png</image>
+		<name>合金装备 幽灵通天塔</name>
+	</game>
+	<game source="Recalbox" timestamp="0">
+		<path>幻想传说 换装迷宫.gbc</path>
+		<image>~/thumbnails/01 GB/Named_Snaps/幻想传说 换装迷宫.png</image>
+		<name>幻想传说 换装迷宫</name>
+	</game>
+	<game source="Recalbox" timestamp="0">
+		<path>魂斗罗1.gb</path>
+		<image>~/thumbnails/01 GB/Named_Snaps/魂斗罗1.png</image>
+		<name>魂斗罗1</name>
+	</game>
+	<game source="Recalbox" timestamp="0">
+		<path>魂斗罗2.gb</path>
+		<image>~/thumbnails/01 GB/Named_Snaps/魂斗罗2.png</image>
+		<name>魂斗罗2</name>
+	</game>
+	<game source="Recalbox" timestamp="0">
+		<path>机械战警1.gb</path>
+		<image>~/thumbnails/01 GB/Named_Snaps/机械战警1.png</image>
+		<name>机械战警1</name>
+	</game>
+	<game source="Recalbox" timestamp="0">
+		<path>机械战警2.gb</path>
+		<image>~/thumbnails/01 GB/Named_Snaps/机械战警2.png</image>
+		<name>机械战警2</name>
+	</game>
+	<game source="Recalbox" timestamp="0">
+		<path>机械战警对终结者.gb</path>
+		<image>~/thumbnails/01 GB/Named_Snaps/机械战警对终结者.png</image>
+		<name>机械战警对终结者</name>
+	</game>
+	<game source="Recalbox" timestamp="0">
+		<path>街头霸王II.gb</path>
+		<image>~/thumbnails/01 GB/Named_Snaps/街头霸王II.png</image>
+		<name>街头霸王II</name>
+	</game>
+	<game source="Recalbox" timestamp="0">
+		<path>街头霸王ZERO.gbc</path>
+		<image>~/thumbnails/01 GB/Named_Snaps/街头霸王ZERO.png</image>
+		<name>街头霸王ZERO</name>
+	</game>
+	<game source="Recalbox" timestamp="0">
+		<path>街头赛车.gb</path>
+		<image>~/thumbnails/01 GB/Named_Snaps/街头赛车.png</image>
+		<name>街头赛车</name>
+	</game>
+	<game source="Recalbox" timestamp="0">
+		<path>金田一少年事件簿10周年.gbc</path>
+		<image>~/thumbnails/01 GB/Named_Snaps/金田一少年事件簿10周年.png</image>
+		<name>金田一少年事件簿10周年</name>
+	</game>
+	<game source="Recalbox" timestamp="0">
+		<path>金庸群侠传.gbc</path>
+		<image>~/thumbnails/01 GB/Named_Snaps/金庸群侠传.png</image>
+		<name>金庸群侠传</name>
+	</game>
+	<game source="Recalbox" timestamp="0">
+		<path>口袋妖怪 黄.gb</path>
+		<lastplayed>19800101T010222</lastplayed>
+		<playcount>1</playcount>
+		<image>~/thumbnails/01 GB/Named_Snaps/口袋妖怪 黄.png</image>
+		<name>口袋妖怪 黄</name>
+	</game>
+	<game source="Recalbox" timestamp="0">
+		<path>洛克人1.gb</path>
+		<image>~/thumbnails/01 GB/Named_Snaps/洛克人1.png</image>
+		<name>洛克人1</name>
+	</game>
+	<game source="Recalbox" timestamp="0">
+		<path>洛克人2.gb</path>
+		<image>~/thumbnails/01 GB/Named_Snaps/洛克人2.png</image>
+		<name>洛克人2</name>
+	</game>
+	<game source="Recalbox" timestamp="0">
+		<path>洛克人3.gb</path>
+		<image>~/thumbnails/01 GB/Named_Snaps/洛克人3.png</image>
+		<name>洛克人3</name>
+	</game>
+	<game source="Recalbox" timestamp="0">
+		<path>洛克人4.gb</path>
+		<image>~/thumbnails/01 GB/Named_Snaps/洛克人4.png</image>
+		<name>洛克人4</name>
+	</game>
+	<game source="Recalbox" timestamp="0">
+		<path>洛克人5.gb</path>
+		<image>~/thumbnails/01 GB/Named_Snaps/洛克人5.png</image>
+		<name>洛克人5</name>
+	</game>
+	<game source="Recalbox" timestamp="0">
+		<path>洛克人X1.gbc</path>
+		<image>~/thumbnails/01 GB/Named_Snaps/洛克人X1.png</image>
+		<name>洛克人X1</name>
+	</game>
+	<game source="Recalbox" timestamp="0">
+		<path>洛克人X2.gbc</path>
+		<image>~/thumbnails/01 GB/Named_Snaps/洛克人X2.png</image>
+		<name>洛克人X2</name>
+	</game>
+	<game source="Recalbox" timestamp="0">
+		<path>冒险岛1.gb</path>
+		<image>~/thumbnails/01 GB/Named_Snaps/冒险岛1.png</image>
+		<name>冒险岛1</name>
+	</game>
+	<game source="Recalbox" timestamp="0">
+		<path>冒险岛2.gb</path>
+		<image>~/thumbnails/01 GB/Named_Snaps/冒险岛2.png</image>
+		<name>冒险岛2</name>
+	</game>
+	<game source="Recalbox" timestamp="0">
+		<path>棉花小魔女.gbc</path>
+		<image>~/thumbnails/01 GB/Named_Snaps/棉花小魔女.png</image>
+		<name>棉花小魔女</name>
+	</game>
+	<game source="Recalbox" timestamp="0">
+		<path>牧场物语1.gbc</path>
+		<image>~/thumbnails/01 GB/Named_Snaps/牧场物语1.png</image>
+		<name>牧场物语1</name>
+	</game>
+	<game source="Recalbox" timestamp="0">
+		<path>牧场物语2.gbc</path>
+		<image>~/thumbnails/01 GB/Named_Snaps/牧场物语2.png</image>
+		<name>牧场物语2</name>
+	</game>
+	<game source="Recalbox" timestamp="0">
+		<path>牧场物语3.gbc</path>
+		<image>~/thumbnails/01 GB/Named_Snaps/牧场物语3.png</image>
+		<name>牧场物语3</name>
+	</game>
+	<game source="Recalbox" timestamp="0">
+		<path>能量冲激.gbc</path>
+		<image>~/thumbnails/01 GB/Named_Snaps/能量冲激.png</image>
+		<name>能量冲激</name>
+	</game>
+	<game source="Recalbox" timestamp="0">
+		<path>蚯蚓战士.gb</path>
+		<image>~/thumbnails/01 GB/Named_Snaps/蚯蚓战士.png</image>
+		<name>蚯蚓战士</name>
+	</game>
+	<game source="Recalbox" timestamp="0">
+		<path>热斗 超能勇士.gb</path>
+		<image>~/thumbnails/01 GB/Named_Snaps/热斗 超能勇士.png</image>
+		<name>热斗 超能勇士</name>
+	</game>
+	<game source="Recalbox" timestamp="0">
+		<path>热斗 斗神传.gb</path>
+		<image>~/thumbnails/01 GB/Named_Snaps/热斗 斗神传.png</image>
+		<name>热斗 斗神传</name>
+	</game>
+	<game source="Recalbox" timestamp="0">
+		<path>热斗 饿狼传说2.gb</path>
+		<image>~/thumbnails/01 GB/Named_Snaps/热斗 饿狼传说2.png</image>
+		<name>热斗 饿狼传说2</name>
+	</game>
+	<game source="Recalbox" timestamp="0">
+		<path>热斗 饿狼传说特别版.gb</path>
+		<image>~/thumbnails/01 GB/Named_Snaps/热斗 饿狼传说特别版.png</image>
+		<name>热斗 饿狼传说特别版</name>
+	</game>
+	<game source="Recalbox" timestamp="0">
+		<path>热斗 拳皇95.gb</path>
+		<image>~/thumbnails/01 GB/Named_Snaps/热斗 拳皇95.png</image>
+		<name>热斗 拳皇95</name>
+	</game>
+	<game source="Recalbox" timestamp="0">
+		<path>热斗 拳皇96.gb</path>
+		<image>~/thumbnails/01 GB/Named_Snaps/热斗 拳皇96.png</image>
+		<name>热斗 拳皇96</name>
+	</game>
+	<game source="Recalbox" timestamp="0">
+		<path>热斗 拳皇97.gb</path>
+		<image>~/thumbnails/01 GB/Named_Snaps/热斗 拳皇97.png</image>
+		<name>热斗 拳皇97</name>
+	</game>
+	<game source="Recalbox" timestamp="0">
+		<path>热斗 拳皇98.gb</path>
+		<image>~/thumbnails/01 GB/Named_Snaps/热斗 拳皇98.png</image>
+		<name>热斗 拳皇98</name>
+	</game>
+	<game source="Recalbox" timestamp="0">
+		<path>热斗 拳皇99.gbc</path>
+		<image>~/thumbnails/01 GB/Named_Snaps/热斗 拳皇99.png</image>
+		<name>热斗 拳皇99</name>
+	</game>
+	<game source="Recalbox" timestamp="0">
+		<path>热斗 世界英雄2.gb</path>
+		<image>~/thumbnails/01 GB/Named_Snaps/热斗 世界英雄2.png</image>
+		<name>热斗 世界英雄2</name>
+	</game>
+	<game source="Recalbox" timestamp="0">
+		<path>热斗 侍魂.gb</path>
+		<image>~/thumbnails/01 GB/Named_Snaps/热斗 侍魂.png</image>
+		<name>热斗 侍魂</name>
+	</game>
+	<game source="Recalbox" timestamp="0">
+		<path>热斗 侍魂斩红郎无双剑.gb</path>
+		<image>~/thumbnails/01 GB/Named_Snaps/热斗 侍魂斩红郎无双剑.png</image>
+		<name>热斗 侍魂斩红郎无双剑</name>
+	</game>
+	<game source="Recalbox" timestamp="0">
+		<path>热血硬派 番外乱斗篇.gb</path>
+		<image>~/thumbnails/01 GB/Named_Snaps/热血硬派 番外乱斗篇.png</image>
+		<name>热血硬派 番外乱斗篇</name>
+	</game>
+	<game source="Recalbox" timestamp="0">
+		<path>忍者龙剑传.gb</path>
+		<image>~/thumbnails/01 GB/Named_Snaps/忍者龙剑传.png</image>
+		<name>忍者龙剑传</name>
+	</game>
+	<game source="Recalbox" timestamp="0">
+		<path>忍者时代.gbc</path>
+		<image>~/thumbnails/01 GB/Named_Snaps/忍者时代.png</image>
+		<name>忍者时代</name>
+	</game>
+	<game source="Recalbox" timestamp="0">
+		<path>忍者蛙1.gb</path>
+		<image>~/thumbnails/01 GB/Named_Snaps/忍者蛙1.png</image>
+		<name>忍者蛙1</name>
+	</game>
+	<game source="Recalbox" timestamp="0">
+		<path>忍者蛙2.gb</path>
+		<image>~/thumbnails/01 GB/Named_Snaps/忍者蛙2.png</image>
+		<name>忍者蛙2</name>
+	</game>
+	<game source="Recalbox" timestamp="0">
+		<path>忍者蛙和双截龙.gb</path>
+		<image>~/thumbnails/01 GB/Named_Snaps/忍者蛙和双截龙.png</image>
+		<name>忍者蛙和双截龙</name>
+	</game>
+	<game source="Recalbox" timestamp="0">
+		<path>塞尔达传说1 梦见岛DX.gbc</path>
+		<image>~/thumbnails/01 GB/Named_Snaps/塞尔达传说1 梦见岛DX.png</image>
+		<name>塞尔达传说1 梦见岛DX</name>
+	</game>
+	<game source="Recalbox" timestamp="0">
+		<path>塞尔达传说2 大地之章.gbc</path>
+		<image>~/thumbnails/01 GB/Named_Snaps/塞尔达传说2 大地之章.png</image>
+		<name>塞尔达传说2 大地之章</name>
+	</game>
+	<game source="Recalbox" timestamp="0">
+		<path>塞尔达传说3 时空之章.gbc</path>
+		<image>~/thumbnails/01 GB/Named_Snaps/塞尔达传说3 时空之章.png</image>
+		<name>塞尔达传说3 时空之章</name>
+	</game>
+	<game source="Recalbox" timestamp="0">
+		<path>三国志 傲视天下.gbc</path>
+		<image>~/thumbnails/01 GB/Named_Snaps/三国志 傲视天下.png</image>
+		<name>三国志 傲视天下</name>
+	</game>
+	<game source="Recalbox" timestamp="0">
+		<path>桑塔.gbc</path>
+		<image>~/thumbnails/01 GB/Named_Snaps/桑塔.png</image>
+		<name>桑塔</name>
+	</game>
+	<game source="Recalbox" timestamp="0">
+		<path>生化尖兵.gbc</path>
+		<image>~/thumbnails/01 GB/Named_Snaps/生化尖兵.png</image>
+		<name>生化尖兵</name>
+	</game>
+	<game source="Recalbox" timestamp="0">
+		<path>生化危机.gbc</path>
+		<image>~/thumbnails/01 GB/Named_Snaps/生化危机.png</image>
+		<name>生化危机</name>
+	</game>
+	<game source="Recalbox" timestamp="0">
+		<path>生化危机 最终逃亡.gbc</path>
+		<image>~/thumbnails/01 GB/Named_Snaps/生化危机 最终逃亡.png</image>
+		<name>生化危机 最终逃亡</name>
+	</game>
+	<game source="Recalbox" timestamp="0">
+		<path>圣剑传说.gb</path>
+		<image>~/thumbnails/01 GB/Named_Snaps/圣剑传说.png</image>
+		<name>圣剑传说</name>
+	</game>
+	<game source="Recalbox" timestamp="0">
+		<path>双截龙1.gb</path>
+		<image>~/thumbnails/01 GB/Named_Snaps/双截龙1.png</image>
+		<name>双截龙1</name>
+	</game>
+	<game source="Recalbox" timestamp="0">
+		<path>双截龙2.gb</path>
+		<image>~/thumbnails/01 GB/Named_Snaps/双截龙2.png</image>
+		<name>双截龙2</name>
+	</game>
+	<game source="Recalbox" timestamp="0">
+		<path>双截龙3.gb</path>
+		<image>~/thumbnails/01 GB/Named_Snaps/双截龙3.png</image>
+		<name>双截龙3</name>
+	</game>
+	<game source="Recalbox" timestamp="0">
+		<path>太空战士4.gb</path>
+		<image>~/thumbnails/01 GB/Named_Snaps/太空战士4.png</image>
+		<name>太空战士4</name>
+	</game>
+	<game source="Recalbox" timestamp="0">
+		<path>坦克大战.gb</path>
+		<image>~/thumbnails/01 GB/Named_Snaps/坦克大战.png</image>
+		<name>坦克大战</name>
+	</game>
+	<game source="Recalbox" timestamp="0">
+		<path>吞食天地1 赤壁之战.gbc</path>
+		<image>~/thumbnails/01 GB/Named_Snaps/吞食天地1 赤壁之战.png</image>
+		<name>吞食天地1 赤壁之战</name>
+	</game>
+	<game source="Recalbox" timestamp="0">
+		<path>吞食天地2 真三国无双.gbc</path>
+		<image>~/thumbnails/01 GB/Named_Snaps/吞食天地2 真三国无双.png</image>
+		<name>吞食天地2 真三国无双</name>
+	</game>
+	<game source="Recalbox" timestamp="0">
+		<path>吞食天地 三国英雄传.gb</path>
+		<image>~/thumbnails/01 GB/Named_Snaps/吞食天地 三国英雄传.png</image>
+		<name>吞食天地 三国英雄传</name>
+	</game>
+	<game source="Recalbox" timestamp="0">
+		<path>瓦力欧大陆1.gb</path>
+		<image>~/thumbnails/01 GB/Named_Snaps/瓦力欧大陆1.png</image>
+		<name>瓦力欧大陆1</name>
+	</game>
+	<game source="Recalbox" timestamp="0">
+		<path>瓦力欧大陆2.gbc</path>
+		<image>~/thumbnails/01 GB/Named_Snaps/瓦力欧大陆2.png</image>
+		<name>瓦力欧大陆2</name>
+	</game>
+	<game source="Recalbox" timestamp="0">
+		<path>瓦力欧大陆3.gbc</path>
+		<image>~/thumbnails/01 GB/Named_Snaps/瓦力欧大陆3.png</image>
+		<name>瓦力欧大陆3</name>
+	</game>
+	<game source="Recalbox" timestamp="0">
+		<path>恶魔城1.gb</path>
+		<image>~/thumbnails/01 GB/Named_Snaps/恶魔城1.png</image>
+		<name>恶魔城1</name>
+	</game>
+	<game source="Recalbox" timestamp="0">
+		<path>恶魔城2.gb</path>
+		<image>~/thumbnails/01 GB/Named_Snaps/恶魔城2.png</image>
+		<name>恶魔城2</name>
+	</game>
+	<game source="Recalbox" timestamp="0">
+		<path>恶魔城3.gb</path>
+		<image>~/thumbnails/01 GB/Named_Snaps/恶魔城3.png</image>
+		<name>恶魔城3</name>
+	</game>
+	<game source="Recalbox" timestamp="0">
+		<path>恶魔城外传 王子传奇.gb</path>
+		<image>~/thumbnails/01 GB/Named_Snaps/恶魔城外传 王子传奇.png</image>
+		<name>恶魔城外传 王子传奇</name>
+	</game>
+	<game source="Recalbox" timestamp="0">
+		<path>仙剑奇侠传.gbc</path>
+		<image>~/thumbnails/01 GB/Named_Snaps/仙剑奇侠传.png</image>
+		<name>仙剑奇侠传</name>
+	</game>
+	<game source="Recalbox" timestamp="0">
+		<path>星海传说.gbc</path>
+		<image>~/thumbnails/01 GB/Named_Snaps/星海传说.png</image>
+		<name>星海传说</name>
+	</game>
+	<game source="Recalbox" timestamp="0">
+		<path>星之卡比1.gb</path>
+		<image>~/thumbnails/01 GB/Named_Snaps/星之卡比1.png</image>
+		<name>星之卡比1</name>
+	</game>
+	<game source="Recalbox" timestamp="0">
+		<path>星之卡比2.gb</path>
+		<image>~/thumbnails/01 GB/Named_Snaps/星之卡比2.png</image>
+		<name>星之卡比2</name>
+	</game>
+	<game source="Recalbox" timestamp="0">
+		<path>幸运的卢克.gbc</path>
+		<image>~/thumbnails/01 GB/Named_Snaps/幸运的卢克.png</image>
+		<name>幸运的卢克</name>
+	</game>
+	<game source="Recalbox" timestamp="0">
+		<path>异形战机1.gb</path>
+		<image>~/thumbnails/01 GB/Named_Snaps/异形战机1.png</image>
+		<name>异形战机1</name>
+	</game>
+	<game source="Recalbox" timestamp="0">
+		<path>异形战机2.gb</path>
+		<image>~/thumbnails/01 GB/Named_Snaps/异形战机2.png</image>
+		<name>异形战机2</name>
+	</game>
+	<game source="Recalbox" timestamp="0">
+		<path>异形战机DX.gbc</path>
+		<image>~/thumbnails/01 GB/Named_Snaps/异形战机DX.png</image>
+		<name>异形战机DX</name>
+	</game>
+	<game source="Recalbox" timestamp="0">
+		<path>银河战士2.gb</path>
+		<image>~/thumbnails/01 GB/Named_Snaps/银河战士2.png</image>
+		<name>银河战士2</name>
+	</game>
+	<game source="Recalbox" timestamp="0">
+		<path>勇者斗恶龙怪兽篇1 特瑞的仙境.gbc</path>
+		<image>~/thumbnails/01 GB/Named_Snaps/勇者斗恶龙怪兽篇1 特瑞的仙境.png</image>
+		<name>勇者斗恶龙怪兽篇1 特瑞的仙境</name>
+	</game>
+	<game source="Recalbox" timestamp="0">
+		<path>勇者斗恶龙怪兽篇2 鲁卡的旅行.gbc</path>
+		<image>~/thumbnails/01 GB/Named_Snaps/勇者斗恶龙怪兽篇2 鲁卡的旅行.png</image>
+		<name>勇者斗恶龙怪兽篇2 鲁卡的旅行</name>
+	</game>
+	<game source="Recalbox" timestamp="0">
+		<path>宇宙巡航机.gb</path>
+		<image>~/thumbnails/01 GB/Named_Snaps/宇宙巡航机.png</image>
+		<name>宇宙巡航机</name>
+	</game>
+	<game source="Recalbox" timestamp="0">
+		<path>终结者2 街机.gb</path>
+		<image>~/thumbnails/01 GB/Named_Snaps/终结者2 街机.png</image>
+		<name>终结者2 街机</name>
+	</game>
+	<game source="Recalbox" timestamp="0">
+		<path>终结者2 审判日.gb</path>
+		<image>~/thumbnails/01 GB/Named_Snaps/终结者2 审判日.png</image>
+		<name>终结者2 审判日</name>
+	</game>
+	<game source="Recalbox" timestamp="0">
+		<path>重装机兵.gbc</path>
+		<image>~/thumbnails/01 GB/Named_Snaps/重装机兵.png</image>
+		<name>重装机兵</name>
+	</game>
+</gameList>
